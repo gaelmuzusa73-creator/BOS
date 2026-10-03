@@ -1,7 +1,7 @@
 # Actions
 
 **Semaine du :** 28 septembre → 4 octobre 2026
-**Focus :** Choisir UN type de client, puis en faire une offre qu'on peut envoyer.
+**Focus :** Envoyer les 5 messages et ramener les réponses ici. On ne construit rien tant qu'un fondateur n'a pas confirmé la douleur.
 
 ---
 
@@ -9,10 +9,9 @@
 
 | # | Action | Pourquoi | Deadline | Statut |
 |---|--------|----------|----------|--------|
-| 1 | **Choisir UN type de client** | Débloque l'offre, les messages et la visibilité (diagnostic #1) | 3 octobre | En cours |
-| 2 | **Écrire l'offre en une phrase, avec un prix** | Un prospect doit pouvoir comprendre ce qu'il achète (diagnostic #2) | 3 octobre | À faire |
-| 3 | **Rédiger 5 messages de prospection prêts à envoyer** | Premier canal concret, sans attendre un site ou du contenu (diagnostic #4) | 4 octobre | À faire |
-| 4 | Envoyer le premier message à une personne hors cercle proche | La validation, c'est une conversation avec un inconnu (diagnostic #3) | 4 octobre | À faire |
+| 1 | **Envoyer le message à Sami Ouchait (So Fresh Ads)** | Première conversation avec la cible. Son profil parle déjà de reporting. | 3 octobre | À faire |
+| 2 | **Envoyer les 4 autres messages** (Convertix, Mushido, KZN, Ulk) | 5 conversations avant de construire | 4 octobre | À faire |
+| 3 | Coller ici chaque réponse, même un non | On ajuste l'offre sur leurs mots | Dès qu'une réponse arrive | À faire |
 
 ---
 
@@ -20,4 +19,6 @@
 
 | # | Action | Résultat | Date |
 |---|--------|----------|------|
-| — | (vide au départ) | | |
+| 1 | Choisir UN type de client | Agences ads francophones, 2 à 15 personnes, France et Belgique | 3 octobre 2026 |
+| 2 | Écrire l'offre en une phrase, avec un prix | Rapport qui part tout seul en 2 semaines. 2 500 € + 700 €/mois. Deux premiers : 1 500 € + 500 €/mois. | 3 octobre 2026 |
+| 3 | Rédiger 5 messages de prospection | Prêts dans `Output/Product_Reporting_Agences_2026-10-03.md`, avec les liens | 3 octobre 2026 |
