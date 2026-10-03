@@ -9,10 +9,12 @@ Agence qui fait gagner du temps aux entreprises : automatisations, applications 
 Pas encore d'offre vendable. Pas de promesse unique, pas de périmètre, pas de prix. Aujourd'hui c'est un savoir-faire, pas une offre.
 
 ## Persona
-Ouvert. Idée de départ : tout type d'entreprise, y compris artisans et prestataires de services. Aucun segment choisi.
+Pas encore choisi. Contrainte posée par Gaël : clients internationaux, en ligne, marché déjà éduqué, marges correctes. Pas le marché local.
+
+Idée de départ (artisans, tout type d'entreprise) écartée au profit de cette contrainte. Acquisition 100 % sortante : aucun réseau business.
 
 ## Produit / Service
-Ce qui a déjà été livré (cercle proche) : automatisations, applications sur mesure, agents IA. Le détail des missions, des résultats et des outils n'est pas encore documenté.
+Une seule livraison documentée : une application simple de gestion pour la boutique de sa sœur. Le résultat chiffré (temps gagné, tâches supprimées) n'est pas encore formulé.
 
 ## Marketing
 Aucun canal. Aucune visibilité hors du cercle proche. Pas de site, pas de contenu, pas de prospection en cours. L'acquisition est le blocage ressenti.

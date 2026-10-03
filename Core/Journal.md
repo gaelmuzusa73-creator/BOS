@@ -8,3 +8,9 @@
 - Bottleneck identifié : pas de client cible. La visibilité vient après.
 - Palier intermédiaire : premier client payant hors cercle proche
 - Premières actions : choisir un type de client, écrire l'offre, rédiger 5 messages, envoyer le premier
+
+## 3 octobre 2026 — Cible
+- Basé en RDC. Veut des clients internationaux, en ligne, marché éduqué, bonnes marges.
+- Seule livraison : app simple de gestion pour la boutique de sa sœur.
+- Réseau business : personne.
+- Piste recommandée : agences marketing francophones (France / Belgique), une seule tâche (reporting client). En attente de son choix.
