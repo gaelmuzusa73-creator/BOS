@@ -1,7 +1,11 @@
 # Actions
 
-- **Coller le H1 Accueil : « On automatise votre boîte. Vous restez off duty. » + CTA Réserver un appel.** Source : `Output/Copy_site-off-duty_2026-10-05.md`
-- Cacher les blocs Preuve ⏳ jusqu’au premier cas chiffré
-- Retirer Formations et Blueprint de la nav
-- Vérifier le nom/statut UCB Paiements avant de publier le paragraphe À propos
-- Brancher le CTA sur un seul calendrier (pas deux chemins)
+- **Envoyer CE DM à UNE personne (dirigeant que tu connais déjà) dans les 24h.** Texte : `Output/Copy_dm-off-duty_2026-10-05.md`. Critère de succès : le message est parti, pas « presque ».
+- Ne pas ouvrir une nouvelle chaîne YouTube / un nouveau skill / une nouvelle analyse tant que le DM n’est pas parti
+- Ne pas retoucher le copy du site tant qu’un humain n’a pas répondu
+- Après envoi : coller le nom + ce qu’il a répondu (même un « non »)
+
+Plus tard (pas aujourd’hui)
+- Accueil en ligne avec H1 + un calendrier
+- Cacher Preuve / Formations / Blueprint
+- Vérifier UCB Paiements
