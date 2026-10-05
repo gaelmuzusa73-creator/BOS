@@ -20,9 +20,9 @@ La plupart des entrepreneurs « font un peu de tout » et ne collectent jamais a
 
 ## Process
 
-### Phase 1 — Identifier le meilleur canal parmi les 6
+### Phase 1 — Identifier le meilleur canal parmi les 7
 
-Comparer honnêtement profil entrepreneur + offre + budget + audience cible. **Choisir UN canal.** Présenter la recommandation avec **raisons explicites** et ce qu'on ne fait pas (les 5 autres).
+Comparer honnêtement profil entrepreneur + offre + budget + audience cible. **Choisir UN canal.** Présenter la recommandation avec **raisons explicites** et ce qu'on ne fait pas (les autres).
 
 1. **Ads (pub payante)** — Facebook, Google, TikTok, etc.
    - **Pour :** budget disponible, besoin de résultats rapides, offre claire, validation minimale.
@@ -47,6 +47,11 @@ Comparer honnêtement profil entrepreneur + offre + budget + audience cible. **C
 6. **Agence** — Déléguer l'acquisition.
    - **Pour :** budget solide, besoin de délégation, **déjà testé soi-même** (pour juger).
    - **Pas pour :** budget serré, jamais testé — sinon impossible de qualifier le travail.
+
+7. **Email froid** — Inconnus qualifiés, par email.
+   - **Pour :** acheteur B2B listable (métier, taille, zone), offre dicible, peu ou pas de budget pub.
+   - **Pas pour :** grand public non listable, offre floue, domaine principal qu'on n'a pas le droit de risquer.
+   - **Exécution :** dès que ce canal est retenu, enchaîner sur `coldmail`. Ne pas improviser une séquence ici.
 
 **Décision :** scorer chaque option (fit audience, coût, délai, compétences). Sortie : **une** ligne du type : *« Canal retenu : [X] parce que [A, B, C]. On ne fait pas [Y, Z] pendant 90 jours. »*
 
@@ -89,9 +94,15 @@ Appliquer les best practices du canal choisi. Ci-dessous : méthodologie complè
 #### Si le canal = Ads
 
 - Structure de campagne (objectif, audiences, créatives, variantes).
-- Ciblage (intention, démos, exclusions).
+- Ciblage large d'abord si la plateforme optimise mieux que le ciblage manuel. L'angle fait le travail, pas 40 intérêts empilés.
+- Créa : images statiques pour tester plusieurs angles vite. Hook = fait, tension ou symptôme, pas une affiche de marque.
 - Allocation budget (test vs scale, règles de couper/scale).
-- Cadre de test créatif (hypothèse → variation → KPI → décision).
+- Cadre de test créatif (hypothèse → variation → KPI → décision). On juge au coût par lead ou au retour, pas au nombre de likes.
+- Les mots de la créa et de la page passent par `copy`. Lire `Knowledge/Acquisition_Sources.md` (Suby, Hormozi) avant de proposer un angle.
+
+#### Si le canal = Email froid
+
+Ne pas développer la méthode ici. Enchaîner immédiatement sur `coldmail` : noter les 3 piliers, écrire la séquence, un seul pas infra ou liste.
 
 #### Si le canal = SEO
 

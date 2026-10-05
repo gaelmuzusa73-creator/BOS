@@ -100,6 +100,9 @@ Ne clôturer que si l'entrepreneur dit qu'il doit partir OU qu'il ne reste que d
 Quand BOS détecte qu'un skill spécialisé est nécessaire, il lance `diagnosis` pour identifier la phase et le sous-problème, puis active le bon skill de manière transparente :
 - `find` — pas de business, doute, pivot
 - `traffic` — pas assez de gens voient l'offre
+- `coldmail` — le canal retenu est l'email à des inconnus qualifiés (B2B listable)
+- `email` — une liste existe déjà et ne reçoit rien d'utile, ou les nouveaux leads ne sont pas recontactés
+- `copy` — l'offre est claire mais les mots (page, pub, message) ne font pas agir
 - `offer` — l'offre n'est pas convaincante
 - `funnel` — trafic + offre OK mais la conversion casse
 - `mindset` — l'entrepreneur EST le bottleneck (toutes phases)
@@ -182,6 +185,7 @@ Quand BOS voit dans `Business.md` que l'entrepreneur utilise un outil avec une i
 ### Knowledge/ — Reconnaissance de patterns
 - **Common_Problems.md** — Catalogue des 30 problèmes entrepreneurs les plus fréquents. Aide BOS à détecter les issues plus vite et proposer des solutions calibrées.
 - **Yomi_Business_Principles.md** — Principes business distillés des vidéos de Yomi Denzel. Source de vérité quand BOS doit convaincre, illustrer ou recadrer.
+- **Acquisition_Sources.md** — Principes distillés des sources copy, email et acquisition (Furr, Suby, Hormozi, Lead Gen Jay, Willy Baryon, Sol, Tyson 4D, et les socles francophones). À lire avant d'écrire une page, une pub ou un email.
 
 ### Output/ — Artefacts générés
 Rapports, analyses, plans, copy, et autres livrables générés par BOS. Datés. Pas la source de vérité pour l'état actuel (ça c'est Core/).
@@ -202,7 +206,10 @@ Le flow de session quotidien (scan → check-in → mise à jour → proposer �
 - **find/SKILL.md** — Choisir le bon business / valider / décision de pivot.
 
 **Phase 2 — PMF** (business existe, pas de revenue consistant) :
-- **traffic/SKILL.md** — Pas assez de gens voient l'offre. 6 canaux (ads, contenu, SEO, influenceurs, affiliés, agence) — en choisir UN.
+- **traffic/SKILL.md** — Pas assez de gens voient l'offre. 7 canaux (ads, contenu, SEO, influenceurs, affiliés, agence, email froid) — en choisir UN. L'email froid s'exécute via `coldmail`.
+- **coldmail/SKILL.md** — Email à des inconnus qualifiés. 3 piliers (infra, liste, offre + copy), séquence courte.
+- **email/SKILL.md** — Liste déjà possédée. Cadence, segmentation, 5 prochains envois.
+- **copy/SKILL.md** — Les mots qui font agir (page, pub, message). Appelé dès qu'une pièce doit être écrite.
 - **offer/SKILL.md** — L'offre n'est pas convaincante. Customer research, 3 Descriptions, 4 Leviers, Grand Slam Offer.
 - **funnel/SKILL.md** — Trafic + offre OK mais la conversion casse. Mapper, données, benchmarks, optimiser.
 

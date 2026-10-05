@@ -9,7 +9,7 @@ BOS est un système d'exploitation business propulsé par l'IA pour les entrepre
 - **Première fois :** BOS te pose des questions pour comprendre ton business, diagnostique tes problèmes principaux, et t'aide immédiatement à passer à l'action.
 - **À chaque retour :** Reviens et parle. BOS se souvient de tout, se met à jour sur ce qui s'est passé, et propose la tâche au plus grand levier. C'est juste une conversation avec un associé business qui connaît ta situation.
 
-### 10 skills spécialisés
+### 13 skills spécialisés
 
 BOS n'est pas un assistant générique — c'est une équipe de spécialistes, chacun avec sa propre méthodologie :
 
@@ -20,6 +20,9 @@ BOS n'est pas un assistant générique — c'est une équipe de spécialistes, c
 | **Diagnosis** | Trouver LE bottleneck qui bloque tout le reste |
 | **Organize** | Structurer le plan d'action (début de semaine, post-diagnostic, quand perdu) |
 | **Traffic** | Choisir et mettre en place UN canal d'acquisition |
+| **Coldmail** | Email froid : infra, liste, séquence de 3 emails |
+| **Email** | Faire travailler la liste qu'on possède déjà |
+| **Copy** | Écrire la page, la pub ou le message qui fait agir |
 | **Offer** | Construire une offre irrésistible (Grand Slam Offer) |
 | **Funnel** | Diagnostiquer et réparer la conversion |
 | **Mindset** | Quand l'entrepreneur EST le blocage (peur, croyances, discipline) |
@@ -36,7 +39,7 @@ Tu n'as jamais besoin d'« activer » un skill. Parle — BOS détecte ce dont t
 
 ## Comment ça marche
 
-BOS vit dans ton workspace Cursor sous forme de fichiers markdown + 10 skills IA spécialisés :
+BOS vit dans ton workspace Cursor sous forme de fichiers markdown + 13 skills IA spécialisés :
 
 ```
 BOS/
@@ -50,13 +53,17 @@ BOS/
 │   └── Journal.md         ← Log quotidien des avancées
 ├── Knowledge/             ← Reconnaissance de patterns
 │   ├── Common_Problems.md ← 30 problèmes entrepreneurs les plus fréquents
-│   └── Yomi_Business_Principles.md ← Principes business (source de vérité)
-├── .claude/skills/        ← 10 skills spécialisés
+│   ├── Yomi_Business_Principles.md ← Principes business (source de vérité)
+│   └── Acquisition_Sources.md ← Copy, email, acquisition (sources externes)
+├── .claude/skills/        ← 13 skills spécialisés
 │   ├── onboard/           ← Premier setup (~15 min)
 │   ├── find/              ← Choisir le bon business / valider / pivoter
 │   ├── diagnosis/         ← Diagnostic profond du business
 │   ├── organize/          ← Structurer le plan d'action
 │   ├── traffic/           ← Stratégie d'acquisition (1 canal)
+│   ├── coldmail/          ← Email froid (inconnus qualifiés)
+│   ├── email/             ← Liste déjà possédée
+│   ├── copy/              ← Mots qui font agir
 │   ├── offer/             ← Construire l'offre irrésistible
 │   ├── funnel/            ← Diagnostiquer et réparer la conversion
 │   ├── mindset/           ← Débloquer les freins psychologiques
