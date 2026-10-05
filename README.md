@@ -31,6 +31,8 @@ BOS n'est pas un assistant générique — c'est une équipe de spécialistes, c
 
 Tu n'as jamais besoin d'« activer » un skill. Parle — BOS détecte ce dont tu as besoin et applique le bon spécialiste.
 
+**Hors BOS (tous tes projets Cursor) :** `copy`, `outbound`, `email` + le pack Taste s’installent en global avec `bash scripts/install-global-skills.sh`. Détail dans `skills/README.md`.
+
 ## Pour qui
 
 - Entrepreneurs qui veulent lancer mais ne savent pas par où commencer

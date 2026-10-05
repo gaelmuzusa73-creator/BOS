@@ -6,6 +6,9 @@ description: Get conversations with strangers who can pay via LinkedIn or cold e
 
 Obtenir des conversations avec des inconnus qui peuvent payer — cold email et LinkedIn. Déclenché quand `diagnosis` identifie un problème de volume en B2B / service, ou quand `traffic` retient le canal outbound.
 
+
+> **Hors BOS :** si les fichiers `Core/` n'existent pas, travaille avec le brief de la conversation. Ne bloque pas. Écris le livrable dans le chat (et `Output/` seulement si le dossier existe).
+
 Ce n'est pas du spam. C'est une machine à conversations : liste précise, offre qui donne envie de répondre, texte court, suivi, vitesse de réponse.
 
 ## Objectif

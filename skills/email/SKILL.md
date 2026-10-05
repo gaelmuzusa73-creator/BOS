@@ -6,6 +6,9 @@ description: Activate a warm email list — newsletter, follow-up, deliverabilit
 
 Activer et faire travailler une liste chaude — newsletter, follow-up, relance. Déclenché quand l'entrepreneur a (ou devrait avoir) des emails de gens qui ont déjà levé la main, et qu'il ne les écrit pas — ou que les mails partent dans le vide.
 
+
+> **Hors BOS :** si les fichiers `Core/` n'existent pas, travaille avec le brief de la conversation. Ne bloque pas. Écris le livrable dans le chat (et `Output/` seulement si le dossier existe).
+
 Différent de `outbound` (inconnu froid) et de `copy` (le craft). Ici : rythme, structure, délivrabilité, un mail qui paie le temps de lecture.
 
 ## Objectif

@@ -6,6 +6,9 @@ description: Write converting sales copy for ads, landings, DMs, VSL, and pages.
 
 Écrire les mots qui font agir — ads, landing, emails, DMs, VSL, site. Déclenché quand `diagnosis` identifie que le message ne convertit pas, ou quand `offer` / `traffic` / `funnel` / `outbound` / `email` ont besoin d'un texte prêt à envoyer.
 
+
+> **Hors BOS :** si les fichiers `Core/` n'existent pas, travaille avec le brief de la conversation. Ne bloque pas. Écris le livrable dans le chat (et `Output/` seulement si le dossier existe).
+
 BOS écrit. L'entrepreneur valide le ton et envoie.
 
 ## Objectif
