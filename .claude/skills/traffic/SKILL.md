@@ -2,7 +2,7 @@
 
 Mettre en place **un** canal d'acquisition qui génère des leads de façon répétable. Déclenché quand `diagnosis` identifie un problème de trafic en phase PMF — pas assez de monde au sommet du funnel, ou pas de canal actif.
 
-La plupart des entrepreneurs « font un peu de tout » et ne collectent jamais assez de données sur un levier. Ce skill impose la discipline inverse : **un canal, 90 jours**, avec BOS qui produit la majorité des livrables (copy, structure, analyse).
+La plupart des entrepreneurs « font un peu de tout » et ne collectent jamais assez de données sur un levier. Ce skill impose la discipline inverse : **un canal, 90 jours**, avec BOS qui produit la majorité des livrables (copy, structure, analyse). Outbound compte comme un canal — souvent le bon pour un premier client B2B.
 
 ## Objectif
 
@@ -22,9 +22,12 @@ La plupart des entrepreneurs « font un peu de tout » et ne collectent jamais a
 
 ### Phase 1 — Identifier le meilleur canal parmi les 6
 
-Comparer honnêtement profil entrepreneur + offre + budget + audience cible. **Choisir UN canal.** Présenter la recommandation avec **raisons explicites** et ce qu'on ne fait pas (les 5 autres).
+Comparer honnêtement profil entrepreneur + offre + budget + audience cible. **Choisir UN canal.** Présenter la recommandation avec **raisons explicites** et ce qu'on ne fait pas (les 6 autres).
 
-1. **Ads (pub payante)** — Facebook, Google, TikTok, etc.
+0. **Outbound** — LinkedIn, cold email, DMs ciblés.
+   - **Pour :** B2B / service, premier client, pas d'audience, besoin de conversations cette semaine.
+   - **Pas pour :** B2C de masse, offre grand public sans ICP nommé.
+   - **If retenu →** exécuter `outbound` (liste, offre froide, séquence). Ne pas rester dans le setup générique ci-dessous.
    - **Pour :** budget disponible, besoin de résultats rapides, offre claire, validation minimale.
    - **Pas pour :** budget zéro, offre non validée, promesse floue.
 
@@ -88,10 +91,16 @@ Appliquer les best practices du canal choisi. Ci-dessous : méthodologie complè
 
 #### Si le canal = Ads
 
-- Structure de campagne (objectif, audiences, créatives, variantes).
-- Ciblage (intention, démos, exclusions).
-- Allocation budget (test vs scale, règles de couper/scale).
-- Cadre de test créatif (hypothèse → variation → KPI → décision).
+Process Hormozi + Sabri (pas une « belle campagne ») :
+
+- **More → Better → New.** Volume d'angles avant polish.
+- **5 pubs statiques / jour** au test (plus rapide que la vidéo). Ciblage large. Budget test ~20 $/jour si possible.
+- **50 hooks, 80/20** : 40 tried-and-true (winners + voix du client), 10 expérimentaux. `copy` écrit les hooks.
+- **80 % de l'effort sur les 5 premières secondes** / le titre. Call-out précis.
+- Swipe file : Ads Library (pubs qui tournent des mois) + print vintage.
+- Conscience de marché : froid = douleur / story ; retarget = offre.
+- KPI : CTR = l'angle vit ; CPL si lead ; ROAS si produit (marge). Fatigue créative = refresh d'angle, pas refonte de marque.
+- Structure de campagne (objectif, exclusions, règles couper/scale) seulement après 1 semaine de tests d'angles.
 
 #### Si le canal = SEO
 

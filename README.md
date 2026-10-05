@@ -9,7 +9,7 @@ BOS est un système d'exploitation business propulsé par l'IA pour les entrepre
 - **Première fois :** BOS te pose des questions pour comprendre ton business, diagnostique tes problèmes principaux, et t'aide immédiatement à passer à l'action.
 - **À chaque retour :** Reviens et parle. BOS se souvient de tout, se met à jour sur ce qui s'est passé, et propose la tâche au plus grand levier. C'est juste une conversation avec un associé business qui connaît ta situation.
 
-### 10 skills spécialisés
+### 13 skills spécialisés
 
 BOS n'est pas un assistant générique — c'est une équipe de spécialistes, chacun avec sa propre méthodologie :
 
@@ -20,7 +20,10 @@ BOS n'est pas un assistant générique — c'est une équipe de spécialistes, c
 | **Diagnosis** | Trouver LE bottleneck qui bloque tout le reste |
 | **Organize** | Structurer le plan d'action (début de semaine, post-diagnostic, quand perdu) |
 | **Traffic** | Choisir et mettre en place UN canal d'acquisition |
+| **Outbound** | Conversations B2B avec des inconnus (LinkedIn, cold email) |
 | **Offer** | Construire une offre irrésistible (Grand Slam Offer) |
+| **Copy** | Écrire les mots qui font agir (ads, landing, DM, VSL, site) |
+| **Email** | Faire travailler une liste chaude (newsletter, follow-up) |
 | **Funnel** | Diagnostiquer et réparer la conversion |
 | **Mindset** | Quand l'entrepreneur EST le blocage (peur, croyances, discipline) |
 | **Chase** | Accélérer le revenue (leviers de croissance, pricing, partenariats) |
@@ -36,7 +39,7 @@ Tu n'as jamais besoin d'« activer » un skill. Parle — BOS détecte ce dont t
 
 ## Comment ça marche
 
-BOS vit dans ton workspace Cursor sous forme de fichiers markdown + 10 skills IA spécialisés :
+BOS vit dans ton workspace Cursor sous forme de fichiers markdown + 13 skills IA spécialisés :
 
 ```
 BOS/
@@ -50,14 +53,20 @@ BOS/
 │   └── Journal.md         ← Log quotidien des avancées
 ├── Knowledge/             ← Reconnaissance de patterns
 │   ├── Common_Problems.md ← 30 problèmes entrepreneurs les plus fréquents
-│   └── Yomi_Business_Principles.md ← Principes business (source de vérité)
-├── .claude/skills/        ← 10 skills spécialisés
+│   ├── Yomi_Business_Principles.md ← Principes business (source de vérité)
+│   ├── Copywriting_Principles.md ← Mots qui vendent
+│   ├── Hormozi_Marketing_Principles.md ← Volume, hooks, LTV:CAC, email
+│   └── Digital_Marketing_Principles.md ← Attention × conversion, site-pub, CRO
+├── .claude/skills/        ← 13 skills spécialisés
 │   ├── onboard/           ← Premier setup (~15 min)
 │   ├── find/              ← Choisir le bon business / valider / pivoter
 │   ├── diagnosis/         ← Diagnostic profond du business
 │   ├── organize/          ← Structurer le plan d'action
 │   ├── traffic/           ← Stratégie d'acquisition (1 canal)
+│   ├── outbound/          ← Prospection LinkedIn / cold email
 │   ├── offer/             ← Construire l'offre irrésistible
+│   ├── copy/              ← Écrire les mots qui font agir
+│   ├── email/             ← Liste chaude / newsletter
 │   ├── funnel/            ← Diagnostiquer et réparer la conversion
 │   ├── mindset/           ← Débloquer les freins psychologiques
 │   ├── chase/             ← Accélérer le revenue (Scale)

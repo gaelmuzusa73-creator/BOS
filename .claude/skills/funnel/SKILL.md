@@ -21,6 +21,14 @@ Beaucoup d'entrepreneurs « optimisent le funnel » alors que le vrai problème 
 
 ## Process
 
+### Phase 1a — Test des 5 secondes (si un site / landing existe)
+
+Avant de noyer dans les métriques : montrer le fold 5 secondes à quelqu'un (ou le faire soi-même en se forçant).
+
+Il doit répondre sans hésiter : **pour qui ? quel résultat ? quoi faire ?**
+
+Si une réponse est floue → le site est une vitrine, pas une pub (Willy). Réécrire le fold avec `copy` AVANT d'optimiser les couleurs. Structure = funnel pour trafic froid : promesse → preuve → bénéfices → un CTA.
+
 ### Phase 1 — Mapper le tunnel complet
 
 Pour **chaque étape**, nommer la source et la sortie :
@@ -67,7 +75,7 @@ Prioriser **une** étape pour la suite (levier #1). Documenter l'hypothèse (« 
 
 Pour l'étape retenue :
 
-- **Copy** — titres, bullets, garanties, objections.
+- **Copy** — titres, bullets, garanties, objections. Écrire avec `copy` (voix du client, conscience, PAISA/AIDA, 5 hooks).
 - **Structure** — hiérarchie page, ordre des sections, nombre de champs formulaire.
 - **Design / UX** — lisibilité mobile, CTA visibles, charge cognitive.
 - **Confiance** — preuve, risque inversé, clarté du next step.
