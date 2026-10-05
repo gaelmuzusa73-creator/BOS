@@ -152,6 +152,25 @@ Pour chaque plateforme : instructions de post/recherche, nombre de candidats cib
 - **Automatisation** — Identifier ce qui peut être automatisé (outils, IA, workflows) sans « automatiser le chaos ».
 - **Productisation** — Transformer le sur-mesure en **répétable** : packages clairs, limites de scope, 1-to-many quand possible.
 
+**Si le process critique est l'outbound**, la SOP couvre obligatoirement :
+
+- réputation des domaines et authentification SPF/DKIM/DMARC ;
+- source, qualification et vérification des contacts ;
+- conformité, droit d'opposition et liste de suppression ;
+- bounces, plaintes et seuils d'arrêt ;
+- catégorisation des réponses et handoff humain rapide ;
+- CRM, rendez-vous, show rate et ventes ;
+- montée en volume uniquement après validation du ciblage et de l'offre.
+
+**Si le process critique est l'email opt-in**, documenter :
+
+- segment et objectif unique de chaque séquence ;
+- valeur immédiate → contenu utile → CTA contextuel → PS ;
+- délivrés, clics, réponses, ventes, désabonnements et plaintes ;
+- nettoyage des inactifs et fréquence testée localement.
+
+Les open rates seuls ne pilotent pas le système : ils sont biaisés par les protections de confidentialité.
+
 **Rappel :** Opérations = recrutement + process — souvent les deux en séquence (scorecard puis SOPs, ou l'inverse selon le goulot).
 
 ### Phase 4 — Qualité produit / Rétention
@@ -200,3 +219,4 @@ Pour chaque plateforme : instructions de post/recherche, nombre de candidats cib
 - **Ne JAMAIS accuser la personne avant d'auditer le process.** Trois échecs d'affilée = soupçonner le système, pas les gens.
 - **Ne JAMAIS scaler l'acquisition sur un produit sous 4/5 de satisfaction.** Boucle qualité d'abord.
 - **Ne JAMAIS embaucher des exécutants avant d'avoir un manager** quand le scale l'exige. Voir l'ordre de recrutement recommandé.
+- **Ne JAMAIS automatiser ou augmenter le volume outbound sans monitoring, suppression et handoff humain documentés.**

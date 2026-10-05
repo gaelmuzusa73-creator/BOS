@@ -6,12 +6,15 @@ Créer une offre que les gens veulent acheter — nouveau produit ou améliorati
 
 Fin de session : **(A)** spec complète prête à vendre/construire, ou **(B)** plan d'amélioration priorisé pour un produit existant. Fichiers `Output/` + `Core/Business.md` + `Core/Actions.md` à jour. Prochaine étape d'exécution **nommée**.
 
-**Critères de succès :** offre cohérente avec les 3 Descriptions ; prix et packaging justifiés ; livraison et lancement actionnables ; si produit existant, boucle satisfaction claire jusqu'à **note ≥ 4/5**.
+**Critères de succès :** offre cohérente avec les 3 Descriptions et des preuves de demande ; message central unique ; promesses reliées à des preuves ; prix et packaging justifiés ; livraison et lancement actionnables ; si produit existant, boucle satisfaction claire jusqu'à **note ≥ 4/5**.
 
 ## Croyances
 
 - **Les 3 Descriptions d'abord.** Prérequis avant de concevoir quoi que ce soit : **(1)** la situation actuelle du client (décrite mieux qu'il ne saurait le faire), **(2)** la situation désirée (dans ses mots, son rêve), **(3)** ton produit comme **pont** entre les deux. Sans ça, l'offre est une devinette.
 - **Pas de construction sans preuve client.** Si personne n'a montré une volonté de payer, c'est une hypothèse — pas un produit. Valider d'abord.
+- **La demande précède la copy.** Une formulation brillante ne crée pas une volonté de payer inexistante. Chercher les problèmes répétés, les solutions déjà achetées et les déclencheurs d'achat avant d'écrire.
+- **Une promesse crée une dette de preuve.** Plus l'affirmation est forte, plus la preuve doit être spécifique, contextualisée et vérifiable.
+- **Power of One.** Une offre s'articule autour d'un client précis, un problème prioritaire, un résultat principal, un mécanisme crédible et une action suivante.
 - **L'offre est un bloc.** Produit, prix, packaging et promesse forment une seule unité. Toucher un élément, c'est recalibrer le reste. On ne fixe pas le prix dans un coin et la promesse dans l'autre.
 - **Un problème résolu entièrement bat cinq à moitié.** Un produit qui résout partiellement 5 problèmes perd contre un qui en résout **1** complètement. Scope impitoyable.
 - **Le prix est un signal.** Sous-pricer = signal de faible valeur ; sur-pricer = attentes disproportionnées. Pricer sur la **transformation** livrée, pas sur le coût de production.
@@ -36,6 +39,29 @@ Si ce n'est pas clair → **Phase 1** avant de designer quoi que ce soit.
 ### Phase 1 — Comprendre le problème client en profondeur
 
 **On ne construit pas une offre depuis son bureau.** Contact avec de vrais clients pour comprendre la réalité.
+
+#### Demand Evidence Gate
+
+Avant de passer à la conception, documenter au moins **3 catégories de preuves** :
+
+- problème exprimé spontanément et avec des mots récurrents ;
+- solutions déjà cherchées, bricolées ou achetées ;
+- coût, fréquence ou urgence du problème ;
+- événement déclencheur qui pousse à agir maintenant ;
+- volonté de payer observée : achat, précommande, acompte ou engagement concret.
+
+Un like, un compliment ou « c'est intéressant » n'est pas une preuve de demande. Si le gate échoue, pré-vendre ou mener les conversations manquantes avant de construire.
+
+#### Dossier Voice of Customer
+
+Conserver les formulations exactes, sans les « améliorer » :
+
+- 10 verbatims minimum ;
+- 5 douleurs ou coûts concrets ;
+- 5 résultats désirés ;
+- 5 objections ;
+- alternatives déjà essayées et raisons d'échec ;
+- preuves dont le client aurait besoin pour croire la promesse.
 
 #### Nouveaux produits
 
@@ -111,6 +137,27 @@ VALEUR PERÇUE =
 - **Effort** — Moins le client travaille, mieux c'est : fait-pour-lui > fait-avec-lui > fait-par-lui.
 
 **Le test :** le client doit sentir qu'il reçoit **au moins 10 fois** la valeur de ce qu'il paye. Si c'est 2-3×, c'est pas assez — il faut soit augmenter la valeur, soit baisser le prix.
+
+#### Offer Message Pack
+
+Avant l'architecture produit, BOS produit :
+
+```text
+Client précis :
+Problème prioritaire :
+Résultat principal :
+Mécanisme distinctif et vérifiable :
+Preuve dominante :
+Objection principale :
+Action demandée :
+```
+
+Puis un **Proof Ledger** :
+
+| Affirmation | Preuve disponible | Qualité / contexte | Droit d'usage | Emplacement |
+|-------------|--------------------|--------------------|---------------|-------------|
+
+Preuves possibles : démonstration, résultat chiffré contextualisé, témoignage spécifique, étude de cas, mécanisme intelligible, garantie soutenable, preuve tierce. Une affirmation forte sans preuve correspondante doit être réduite, testée ou retirée.
 
 ### Phase 3 — Architecture produit (BOS produit)
 
@@ -262,6 +309,9 @@ Phase 3 — Lancement ouvert (Semaine 5+)
 ## Garde-fous
 
 - **Ne JAMAIS concevoir un produit sans problème client clair.** « Je veux faire une formation » sans pour qui / quoi / pourquoi payer = hypothèse, pas offre. → Phase 0-1 d'abord.
+- **Ne JAMAIS confondre intérêt et demande.** Compliments, vues et réponses positives sans engagement ne valident pas une offre.
+- **Ne JAMAIS inventer un mécanisme, une preuve, une urgence ou un détail pour augmenter la conversion.**
+- **Ne JAMAIS importer un benchmark ou un résultat de créateur comme promesse client.** Le mesurer localement ou le présenter explicitement comme exemple.
 - **Ne JAMAIS finaliser sans stratégie de prix.** → Phase 4 : ancrage valeur, positionnement, packaging, justification.
 - **Ne JAMAIS laisser déraper le scope.** 6e module, bonus, communauté, coaching tout d'un coup = dilution. → *« C'est quoi LE truc qui fait acheter ? On commence par ça. »*
 - **Ne JAMAIS commencer par le format.** → Problème, audience, valeur d'abord ; format en dernier.

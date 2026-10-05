@@ -20,6 +20,7 @@ Augmenter le revenue quand le goulot est **acquisition / monétisation** — pas
 - **Le pricing est souvent le levier le plus sous-utilisé.** Hausse de prix, packaging, upsell — souvent plus rapide que « plus de trafic ».
 - **Chasse vs digestion.** Si la livraison ou la satisfaction plombent, **ne pas** compenser par plus d'acquisition — renvoyer vers `digestion` et signaler le risque dans le plan.
 - **Croissance ne veut pas dire scaling** si ça multiplie les heures fondateur sans levier — le dire explicitement.
+- **Les economics décident du droit de scaler.** Le CA seul masque marge, coût d'acquisition et besoin de trésorerie. LTV se calcule sur la marge brute/contributive, pas sur le revenu cumulé.
 
 ## Process
 
@@ -44,6 +45,36 @@ Pour **chaque levier** pertinent, produire une ligne :
 **D. Capacité** — recruter / déléguer ; automatiser ; productiser ; SOPs ; livraison groupe (souvent pont vers `digestion` — le nommer si c'est le vrai goulot).
 
 **Règle de priorisation :** un **levier dominant** pour la phase en cours ; les autres en backlog daté.
+
+#### Tableau d'économie unitaire obligatoire
+
+Avant d'augmenter le trafic, calculer ou estimer explicitement :
+
+```text
+CAC complet = marketing + vente + outils directement liés / nouveaux clients
+Marge contributive par client
+Panier moyen
+Taux de remboursement
+LTV sur marge
+Délai de récupération du CAC
+Revenue par lead
+Revenue par visiteur
+```
+
+Les repères tels que `LTV:CAC = 3:1` sont des heuristiques, pas des lois. Les comparer au cash disponible, au délai de récupération, au churn et à la capacité de livraison.
+
+#### Échelle d'expansion avant un nouveau canal
+
+Examiner dans cet ordre :
+
+1. relancer le pipeline existant ;
+2. réactiver les anciens clients ;
+3. augmenter le prix ou repackager ;
+4. upsell / cross-sell / réachat ;
+5. referrals et partenaires ;
+6. optimiser la conversion ;
+7. augmenter le volume du canal maîtrisé ;
+8. ouvrir un deuxième canal.
 
 ### Phase 2 — Playbook par palier
 
@@ -88,6 +119,17 @@ Proposer **2-3** actions à **impact rapide**, par exemple (adapter au contexte)
 - Refonte headline / above-the-fold landing
 - Relance pipeline existant avant nouveau trafic
 
+### Phase 4b — Système créatif si le canal dominant est la publicité
+
+1. Identifier la meilleure créative actuelle — le **contrôle**.
+2. Documenter audience, niveau de conscience, hook, angle, preuve et economics.
+3. Produire 3-5 hypothèses réellement différentes.
+4. Tester une variable principale par expérience.
+5. Relier hook rate/rétention au créatif, CTR au désir/CTA, puis CPA/ROAS à l'économie globale.
+6. Conserver les apprentissages dans une bibliothèque ; renouveler avant fatigue publicitaire.
+
+Le volume créatif amplifie un système sain ; il amplifie aussi le gaspillage si l'offre, le tracking ou la livraison sont cassés.
+
 ### Phase 5 — Protocole diversification (2e business)
 
 **Uniquement si** l'entrepreneur pose le sujet **et** :
@@ -130,3 +172,6 @@ Si prérequis non remplis : **refuser poliment** le parallèle et nommer le vrai
 - **Ne JAMAIS confondre hausse de CA et scaling** (levier par heure fondateur / systèmes).
 - **Ne JAMAIS lancer un 2e business sans avoir libéré du temps mesurable sur le 1er.**
 - **Ne JAMAIS pousser l'acquisition si satisfaction produit < 4/5** — renvoyer vers `digestion`.
+- **Ne JAMAIS scaler sur le ROAS seul.** Vérifier marge contributive, remboursements, LTV et payback.
+- **Ne JAMAIS ouvrir un deuxième canal avant d'avoir testé l'expansion du pipeline et des clients existants.**
+- **Ne JAMAIS transformer un chiffre auto-déclaré par un créateur en benchmark interne.**

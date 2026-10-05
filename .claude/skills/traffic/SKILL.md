@@ -20,9 +20,9 @@ La plupart des entrepreneurs « font un peu de tout » et ne collectent jamais a
 
 ## Process
 
-### Phase 1 — Identifier le meilleur canal parmi les 6
+### Phase 1 — Identifier le meilleur canal parmi les 7
 
-Comparer honnêtement profil entrepreneur + offre + budget + audience cible. **Choisir UN canal.** Présenter la recommandation avec **raisons explicites** et ce qu'on ne fait pas (les 5 autres).
+Comparer honnêtement profil entrepreneur + offre + budget + audience cible. **Choisir UN canal.** Présenter la recommandation avec **raisons explicites** et ce qu'on ne fait pas (les 6 autres).
 
 1. **Ads (pub payante)** — Facebook, Google, TikTok, etc.
    - **Pour :** budget disponible, besoin de résultats rapides, offre claire, validation minimale.
@@ -47,6 +47,11 @@ Comparer honnêtement profil entrepreneur + offre + budget + audience cible. **C
 6. **Agence** — Déléguer l'acquisition.
    - **Pour :** budget solide, besoin de délégation, **déjà testé soi-même** (pour juger).
    - **Pas pour :** budget serré, jamais testé — sinon impossible de qualifier le travail.
+
+7. **Outbound / prospection directe** — Email, LinkedIn, téléphone, réseau et réactivation.
+   - **Pour :** service B2B, besoin de cash rapide, cible identifiable, offre livrable manuellement, pas encore d'audience.
+   - **Pas pour :** cible impossible à identifier, offre générique, refus de personnaliser et de répondre humainement.
+   - **Ordre conseillé pour un service :** anciens clients → recommandations → réseau/partenaires → prospection ciblée.
 
 **Décision :** scorer chaque option (fit audience, coût, délai, compétences). Sortie : **une** ligne du type : *« Canal retenu : [X] parce que [A, B, C]. On ne fait pas [Y, Z] pendant 90 jours. »*
 
@@ -92,6 +97,21 @@ Appliquer les best practices du canal choisi. Ci-dessous : méthodologie complè
 - Ciblage (intention, démos, exclusions).
 - Allocation budget (test vs scale, règles de couper/scale).
 - Cadre de test créatif (hypothèse → variation → KPI → décision).
+- Matrice `Audience × Niveau de conscience × Angle × Preuve × CTA`.
+- Identifier le **contrôle** actuel, puis tester des concepts distincts — pas seulement des synonymes.
+- Auditer la continuité annonce → landing page : même problème, promesse, mécanisme, preuve et prochaine action.
+
+#### Si le canal = Outbound
+
+1. Définir l'ICP et les signaux d'achat observables.
+2. Constituer une première liste de **30-50 prospects qualifiés**, pas une base massive.
+3. Produire un asset de preuve : mini-audit, Loom, exemple ou observation spécifique.
+4. Écrire un message court : observation → problème plausible → micro-preuve → proposition → CTA faible friction.
+5. Préparer 2-3 relances utiles, puis traiter rapidement et humainement les réponses.
+6. Suivre : envoyés, délivrés, bounces, réponses, réponses positives, appels, show rate, ventes.
+7. Augmenter le volume uniquement si ciblage, réputation et conversion tiennent.
+
+Pour le cold email : domaine secondaire, SPF/DKIM/DMARC, vérification des adresses, liste de suppression, droit d'opposition et conformité au droit applicable **avant** le volume. Une configuration technique correcte ne garantit pas l'arrivée en boîte principale.
 
 #### Si le canal = SEO
 
@@ -133,3 +153,6 @@ Si résistance (« pas prêt ») → réduire au plus petit incrément publiable
 - **Ne JAMAIS produire du contenu avant d'avoir défini l'audience et le pont vers l'offre** — sinon bruit et démotivation.
 - **Ne JAMAIS envoyer l'entrepreneur « apprendre » tout seul** (cours, YouTube) — BOS enseigne en construisant dans la session.
 - **Ne JAMAIS laisser « je suis pas prêt » gagner** — première pièce / pub / action dans cette session (ou micro-version irréfutable).
+- **Ne JAMAIS scaler l'outbound avant de valider ICP, offre, délivrabilité et traitement humain des réponses.**
+- **Ne JAMAIS utiliser de fausse personnalisation, de fausse urgence ou contourner les obligations de prospection.**
+- **Ne JAMAIS traiter la longévité d'une publicité concurrente comme une preuve de rentabilité.** C'est un indice à tester, pas un fait.
