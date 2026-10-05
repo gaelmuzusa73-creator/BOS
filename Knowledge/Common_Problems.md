@@ -132,3 +132,11 @@ Toujours privilégier : un marché porteur, un modèle qui a fait ses preuves, l
 ## #30 — Pas de motivation profonde
 **Signaux :** Business "parce que c'est à la mode", pas de why profond. Abandonne quand c'est dur. "Je veux gagner de l'argent" mais sans conviction.
 **Solutions :** Exercice des "5 pourquoi" : pourquoi tu veux ce business → pourquoi → pourquoi → jusqu'à la raison profonde. Si pas de motivation profonde, peut-être que c'est pas le bon business pour cette personne. La motivation doit survivre aux jours difficiles. Trouver ce qui le met en colère dans le monde — c'est souvent la clé.
+
+## #31 — Copywriting mou et égocentrique
+**Signaux :** Textes de vente remplis de jargon technique ou institutionnel (« nous sommes une entreprise innovante »), pas d'accroche percutante, taux de rebond élevé sur les pages, aucun clic sur les emails.
+**Solutions :** Activer le skill `copywriting`. Règle des 3 Descriptions : parler de la douleur du client dans ses mots à lui. Règle du toboggan de Sugarman (la phrase 1 ne sert qu'à faire lire la phrase 2). Remplacer tout adjectif vague par des preuves chiffrées concrètes. Mettre un P.S. stratégique sur chaque communication.
+
+## #32 — Dépendance passive aux algorithmes / Absence de prospection active (Outbound)
+**Signaux :** L'entrepreneur attend passivement que ses posts TikTok/LinkedIn percent ou que les clients viennent par miracle. Zéro contact sortant, pipeline vide, panique à chaque mise à jour d'algorithme.
+**Solutions :** Activer le skill `outbound`. Mettre en place une machine de cold email ou prospection directe B2B : domaine secondaire isolé, configuration SPF/DKIM/DMARC, offre « cheval de Troie » (audit vidéo offert de 2 min) et séquence en 3 touches légères (<100 mots). Viser 20 à 30 contacts ciblés par jour.

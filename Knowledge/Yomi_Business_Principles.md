@@ -99,4 +99,29 @@ Garder le même mode de vie. Ne pas claquer ce qu'on gagne. Ne jamais perdre l'a
 
 ---
 
-*Source : « Si je Devais Remonter un Business à 1 Million » (avr 2024), « 10 Ans de Business en 59 Minutes » (juin 2024), « Les 6 Étapes qui m'ont Rendu Millionaire » (oct 2023), « 6 étapes pour Réussir Mieux que 99% » (juil 2022)*
+## Principes Direct Response, Copywriting & Acquisition (Hormozi, Suby, Furr, Niederhoffer)
+
+### Deux compétences ne meurent jamais : Capter l'attention et la Convertir (Sabri Suby)
+Toutes les plateformes et les hacks algorithmiques ont une date d'expiration. Mais la psychologie humaine est constante depuis des siècles. Si tu maîtrises la capacité à stopper quelqu'un dans sa journée (Attention) et à le persuader de faire un échange de valeur (Conversion), tu ne manqueras jamais d'argent dans ta vie.
+
+### Commencer bas ou gratuit pour créer le flux dans le système (Alex Hormozi)
+Au départ, l'entrepreneur est paralysé par la peur de facturer et manque de preuves. La solution : proposer l'offre à prix coûtant, contre un don à une charité ou gratuitement en échange d'un engagement ferme et d'un témoignage honnête. Une fois le flux de clients amorcé et la preuve créée, augmenter les prix devient naturel. Il est facile de monter les prix ; il est destructeur de devoir les baisser.
+
+### LTV / CAC est le seul ratio qui compte (Alex Hormozi)
+Toutes les vanités (visites de site, likes, abonnés) ne valent rien si la valeur vie client (LTV) ne dépasse pas largement le coût d'acquisition client (CAC). Un business gagne quand il peut se permettre de payer plus que ses concurrents pour acquérir un client rentable.
+
+### L'email marketing est le levier de rétention le plus rentable (Alex Hormozi)
+L'email génère en moyenne entre 35$ et 45$ de retour pour 1$ investi. Pourquoi ? Parce que le coût d'acquisition du contact a déjà été payé. Ne pas envoyer d'emails réguliers (1 à 3 fois par semaine en format texte riche en valeur) équivaut à laisser 40% de conversion sur la table. Récompenser chaque clic immédiatement et traiter chaque email comme du contenu à forte valeur ajoutée.
+
+### Rapidité de contact (<60 secondes) = 391% de hausse de conversion
+Contacter un lead dans les 60 secondes suivant son inscription multiplie les ventes par près de 4 (Harvard Business Review). La plupart des entrepreneurs attendent des heures ou des jours ; être le premier à répondre avec une présence humaine bat n'importe quelle tactique marketing complexe.
+
+### Le format éditorial bat la publicité criarde (David Ogilvy / Sabri Suby)
+Les gens détestent qu'on leur vende, mais adorent acheter. Les publicités et contenus qui ressemblent à des articles de presse, des découvertes ou des confidences (« news, findings, gossip ») battent systématiquement les bannières promotionnelles agressives.
+
+### L'effet toboggan et le rôle de chaque phrase (Joseph Sugarman / Sélim Niederhoffer)
+Le seul but de la première phrase d'un texte est de donner envie de lire la deuxième phrase. Chaque élément d'une page ou d'un email doit aspirer le lecteur sans friction vers le paragraphe suivant jusqu'à l'offre finale.
+
+---
+
+*Sources : Alex Hormozi (« 13 Years of Marketing Advice », « Learn Email Marketing in 39 Minutes »), Sabri Suby (« Give Me 27 Minutes and I'll Make You Disgustingly Good at Digital Marketing »), Yomi Denzel (« Si je Devais Remonter un Business à 1 Million », « 10 Ans de Business en 59 Minutes »)*

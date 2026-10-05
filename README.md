@@ -9,7 +9,7 @@ BOS est un système d'exploitation business propulsé par l'IA pour les entrepre
 - **Première fois :** BOS te pose des questions pour comprendre ton business, diagnostique tes problèmes principaux, et t'aide immédiatement à passer à l'action.
 - **À chaque retour :** Reviens et parle. BOS se souvient de tout, se met à jour sur ce qui s'est passé, et propose la tâche au plus grand levier. C'est juste une conversation avec un associé business qui connaît ta situation.
 
-### 10 skills spécialisés
+### 12 skills spécialisés
 
 BOS n'est pas un assistant générique — c'est une équipe de spécialistes, chacun avec sa propre méthodologie :
 
@@ -19,8 +19,10 @@ BOS n'est pas un assistant générique — c'est une équipe de spécialistes, c
 | **Find** | Choisir le bon business / valider / décider de pivoter |
 | **Diagnosis** | Trouver LE bottleneck qui bloque tout le reste |
 | **Organize** | Structurer le plan d'action (début de semaine, post-diagnostic, quand perdu) |
-| **Traffic** | Choisir et mettre en place UN canal d'acquisition |
+| **Traffic** | Choisir et mettre en place UN canal d'acquisition entrant |
+| **Outbound** | Machine de prospection directe B2B (Cold Email, LinkedIn, deliverability 2026) |
 | **Offer** | Construire une offre irrésistible (Grand Slam Offer) |
+| **Copywriting** | Rédiger des textes de vente percutants (Pages de vente, VSL, emails, ads) |
 | **Funnel** | Diagnostiquer et réparer la conversion |
 | **Mindset** | Quand l'entrepreneur EST le blocage (peur, croyances, discipline) |
 | **Chase** | Accélérer le revenue (leviers de croissance, pricing, partenariats) |
@@ -36,7 +38,7 @@ Tu n'as jamais besoin d'« activer » un skill. Parle — BOS détecte ce dont t
 
 ## Comment ça marche
 
-BOS vit dans ton workspace Cursor sous forme de fichiers markdown + 10 skills IA spécialisés :
+BOS vit dans ton workspace Cursor sous forme de fichiers markdown + 12 skills IA spécialisés :
 
 ```
 BOS/
@@ -49,15 +51,17 @@ BOS/
 │   ├── Actions.md         ← Ce qu'il faut faire, priorisé
 │   └── Journal.md         ← Log quotidien des avancées
 ├── Knowledge/             ← Reconnaissance de patterns
-│   ├── Common_Problems.md ← 30 problèmes entrepreneurs les plus fréquents
+│   ├── Common_Problems.md ← 32 problèmes entrepreneurs les plus fréquents
 │   └── Yomi_Business_Principles.md ← Principes business (source de vérité)
-├── .claude/skills/        ← 10 skills spécialisés
+├── .claude/skills/        ← 12 skills spécialisés
 │   ├── onboard/           ← Premier setup (~15 min)
 │   ├── find/              ← Choisir le bon business / valider / pivoter
 │   ├── diagnosis/         ← Diagnostic profond du business
 │   ├── organize/          ← Structurer le plan d'action
-│   ├── traffic/           ← Stratégie d'acquisition (1 canal)
+│   ├── traffic/           ← Stratégie d'acquisition entrante (1 canal)
+│   ├── outbound/          ← Machine de prospection sortante directe (Cold Email, DM)
 │   ├── offer/             ← Construire l'offre irrésistible
+│   ├── copywriting/       ← Textes de vente persuasifs (VSL, sales pages, emails)
 │   ├── funnel/            ← Diagnostiquer et réparer la conversion
 │   ├── mindset/           ← Débloquer les freins psychologiques
 │   ├── chase/             ← Accélérer le revenue (Scale)

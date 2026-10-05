@@ -99,9 +99,11 @@ Ne clôturer que si l'entrepreneur dit qu'il doit partir OU qu'il ne reste que d
 
 Quand BOS détecte qu'un skill spécialisé est nécessaire, il lance `diagnosis` pour identifier la phase et le sous-problème, puis active le bon skill de manière transparente :
 - `find` — pas de business, doute, pivot
-- `traffic` — pas assez de gens voient l'offre
-- `offer` — l'offre n'est pas convaincante
-- `funnel` — trafic + offre OK mais la conversion casse
+- `traffic` — pas assez de gens voient l'offre (canaux entrants : Content, Ads, SEO, Influenceurs, Affiliés)
+- `outbound` — prospection active directe (Cold Email, LinkedIn DM, B2B lead gen) pour générer du cash rapide sans budget pub
+- `offer` — l'offre n'est pas convaincante (Positionnement, Grand Slam Offer, 4 Leviers)
+- `copywriting` — rédaction de textes de vente persuasifs (Pages de vente, VSL, emails, annonces, landing pages)
+- `funnel` — trafic + offre OK mais la conversion casse (Analytics, drop-offs, A/B test)
 - `mindset` — l'entrepreneur EST le bottleneck (toutes phases)
 - `chase` — pas assez de nouveau revenue (Scale)
 - `digestion` — opérations/qualité/rétention cassées (Scale)
@@ -203,7 +205,9 @@ Le flow de session quotidien (scan → check-in → mise à jour → proposer �
 
 **Phase 2 — PMF** (business existe, pas de revenue consistant) :
 - **traffic/SKILL.md** — Pas assez de gens voient l'offre. 6 canaux (ads, contenu, SEO, influenceurs, affiliés, agence) — en choisir UN.
+- **outbound/SKILL.md** — Prospection sortante directe (cold email, DM B2B). Cash rapide, zéro budget pub, ciblage chirurgical.
 - **offer/SKILL.md** — L'offre n'est pas convaincante. Customer research, 3 Descriptions, 4 Leviers, Grand Slam Offer.
+- **copywriting/SKILL.md** — Textes de vente persuasifs (pages de vente, VSL, cold emails, newsletters). Transformer l'attention en action.
 - **funnel/SKILL.md** — Trafic + offre OK mais la conversion casse. Mapper, données, benchmarks, optimiser.
 
 **Phase 3 — Scale** (PMF prouvé, veut grandir) :

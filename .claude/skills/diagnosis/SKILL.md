@@ -64,14 +64,19 @@ Arbre de décision, appliquer **dans l'ordre**. Stop à la première dimension q
 
 **Q1 — Volume : combien de gens voient l'offre ?**
 Comparer au volume nécessaire (taux de conversion standard). Dizaines de contacts ne prouvent rien — il faut des centaines.
-- **Pas assez** → problème = TRAFIC → route vers `traffic`
+- **Pas assez (canal entrant / organique / ads)** → problème = TRAFIC → route vers `traffic`
+- **Pas assez ET modèle B2B / High-Ticket / zéro budget pub** → problème = PROSPECTION SORTANTE → route vers `outbound`
 
 **Q2 — Offre : basée sur un modèle prouvé ?**
 L'offre est-elle calquée sur quelque chose qui convertit déjà ? Customer research faite ? Désirs clients compris ?
 - **Non** → problème = OFFRE → route vers `offer`
 
-**Q3 — Trafic + offre OK mais pas de ventes ?**
-Assez de trafic qualifié ET offre structurée sur modèle solide, mais conversion cassée ?
+**Q3 — Le message & les mots : le copy est-il percutant ?**
+L'offre existe, le persona est clair, mais les pages de vente, emails, scripts VSL ou messages ne convertissent pas ou semblent mous/génériques ?
+- **Non** → problème = COPYWRITING → route vers `copywriting`
+
+**Q4 — Trafic + offre + message OK mais pas de ventes ?**
+Assez de trafic qualifié ET offre structurée sur modèle solide, mais conversion cassée (friction tunnel, checkout, drop-offs, nurturing) ?
 - **Oui** → problème = FUNNEL → route vers `funnel`
 
 **Matrice PMF détaillée (référence pour expliquer) :**
@@ -186,7 +191,7 @@ Signes : qualité baisse, churn monte, chaos opérationnel, fondateur fait tout,
 | `Core/Actions.md` | Actions alignées sur 1 goulot |
 | `Core/Journal.md` | Append session |
 
-**Routing transparent** vers : `find`, `traffic`, `offer`, `funnel`, `mindset`, `chase`, ou `digestion`.
+**Routing transparent** vers : `find`, `traffic`, `outbound`, `offer`, `copywriting`, `funnel`, `mindset`, `chase`, ou `digestion`.
 
 **Template Diagnosis.md :**
 
