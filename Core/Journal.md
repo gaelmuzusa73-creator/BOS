@@ -26,3 +26,5 @@ Copy entier repris en partenaire de croissance (identifier, livrer, rester jusqu
 
 FAQ réécrite pour briser les objections dans les mots du dirigeant. Livrable : `Output/Copy_faq-off-duty_2026-10-06.md`. Un CTA en bas.
 
+Secteurs : 12 ICP détaillés (qui, phrase, résultat, ce qui reste humain). Pas de cas inventé. La page est un menu. L’outbound reste UN métier. Livrable : `Output/Copy_secteurs-off-duty_2026-10-06.md`.
+

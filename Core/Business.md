@@ -34,7 +34,7 @@ Hors site : Formations, Blueprint.
 ## Marketing
 - Message actuel : Votre partenaire de croissance. On automatise votre boîte. Vous restez off duty.
 - Copy FAQ : `Output/Copy_faq-off-duty_2026-10-06.md`
-- Copy Secteurs : `Output/Copy_secteurs-off-duty_2026-10-06.md`
+- Copy Secteurs (live) : `Output/Copy_secteurs-off-duty_2026-10-06.md` — 12 ICP (qui, phrase, résultat, ce qui reste humain). Menu, pas 12 offres.
 - Mots clients : outils qui dorment · personne ne l’a utilisé · copier-coller · on rate des appels · on ne sait pas ce que ça rapporte
 - Preuves : **aucune publique** — ne pas inventer
 - Canal prévu : site + appel (Calendly)
