@@ -34,3 +34,5 @@ Gaël veut le modèle Gatari. Hypothèse écrite, pas pivot du site : bâtiment,
 
 Analyse morningside.ai : partenaire de livraison (identifier, construire, adopter), pas agence d’acquisition. H1 Accueil calé sur « On ne fait pas que parler d’IA. On la livre. » Pas de compteurs inventés.
 
+Site rangé : menu à 5 liens + bouton Réserver un appel. Audit et Contact sortis du menu. Formations et Blueprint hors site.
+

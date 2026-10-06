@@ -31,17 +31,23 @@ Dirigeant de TPE/PME (artisan, cabinet, commerce, multi-équipes) qui a déjà t
 5. Formations/ateliers — **piste secondaire, pas l’offre #1**  
 6. Blueprint IA — **non publiable tant que l’outil n’existe pas**
 
-## Site (8 pages, ordre figé)
-1. Accueil — hero, constat, trois gestes, pattern, clôture
-2. Services — outils métiers, automatisations, agents IA
-3. Méthode — six étapes
-4. Audit IA — offre d’entrée, avant/après, déroulé
-5. À propos — histoire, pourquoi « off duty », ce qu’on ne fait pas
-6. FAQ — par thème
-7. Cas d’usage par secteur — douze secteurs
-8. Contact — formulaire
+## Site (rangé le 2026-10-06)
 
-Hors site : Formations, Blueprint.
+Menu visible : Services · Méthode · Secteurs · FAQ · À propos  
+Bouton, à droite : Réserver un appel → page Contact  
+Le logo ramène à l’Accueil. Contact n’est pas un mot du menu. L’audit n’est pas dans le menu : on y arrive depuis l’Accueil et Services.
+
+Ordre du visiteur :
+1. Accueil — On ne fait pas que parler d’IA. On la livre.
+2. Services — les 3 livrables
+3. Méthode — les 6 étapes
+4. Secteurs — il se reconnaît
+5. Audit — la roadmap, en lien pas en menu
+6. FAQ — les objections
+7. À propos — qui parle
+8. Contact — le calendrier
+
+Hors site : Formations, Blueprint, prix, cas clients, modèle Gatari.
 
 ## Marketing
 - Message actuel : On ne fait pas que parler d’IA. On la livre. Partenaire de croissance. On automatise votre boîte. Vous restez off duty.
