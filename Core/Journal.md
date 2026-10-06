@@ -12,3 +12,5 @@ Accueil réécrit en PAISA (fold 5 secondes, 3 conséquences, 3 alternatives inv
 
 Services réécrit (AIDA + mécanisme, 3 livrables en résultat pas en catalogue IA). Gatari : on ne vend pas « des clients ». Ottley : done-for-you productisé, ils n’apprennent pas l’IA. Livrable : `Output/Copy_services-off-duty_2026-10-06.md`. Goulot inchangé : une conversation.
 
+Méthode réécrite (6 étapes productisées, 3 peurs traitées, risque inversé). Chase refusé comme plan 90j — phase PMF, 0 client. On a gardé une idée : le déroulé EST la machine. Livrable : `Output/Copy_methode-off-duty_2026-10-06.md`.
+

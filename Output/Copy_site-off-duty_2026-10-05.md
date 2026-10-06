@@ -63,56 +63,7 @@ Source live : même fichier, section « Accueil EN (toggle) ».
 
 # PAGE 2 — Méthode `/methode`
 
-**H1**
-Du premier message au jour où ça tourne tout seul.
-
-**Chapô**
-Six étapes. Rien de caché. Artisan, cabinet, commerce, ou plusieurs équipes — le déroulé ne change pas.
-
-**01 — Le premier appel**
-30 minutes en visio. Gratuit. Sans engagement.
-On regarde comment vous travaillez aujourd’hui. Vous repartez avec un avis clair : ça vaut le coup, ou pas.
-
-**02 — La cartographie express**
-La tâche qui coûte le plus cher en temps ou en clients perdus. Chiffrée.
-Pas un audit de trois semaines. Un diagnostic ciblé.
-
-**03 — Le sprint**
-On construit le correctif prioritaire, branché sur vos outils — ou pour remplacer ce que vous faites à la main.
-Premier livrable **en production sous 7 jours**.
-
-**04 — La démo**
-On vous montre ce qui tourne. On ajuste. Rien n’est validé tant que ce n’est pas ce dont vous avez besoin.
-
-**05 — La formation**
-Vous et votre équipe, sur vos vrais cas.
-Un outil que personne n’ouvre n’a rien résolu.
-
-**06 — La suite, ou pas**
-On enchaîne le prochain chantier. Ou vous reprenez la main.
-Vous gardez l’accès et la doc dans tous les cas.
-
-## Ce qui ne bouge jamais
-
-- Vous êtes propriétaire de ce qu’on construit
-- Rien n’est facturé avant que le premier sprint soit validé
-- Un interlocuteur unique. Une équipe derrière.
-
-## L’objection
-
-« Ils ne vont pas comprendre mon métier. Je vais dépendre d’eux. Ils vont me construire une usine à gaz. »
-
-C’est pour ça que le premier appel est gratuit et sans engagement. Vous testez si on comprend — avant de nous confier quoi que ce soit.
-
-## Comment on développe
-
-Ni un projet IT de six mois. Ni un SaaS qui vous enferme.
-
-- **Rapide** — on avance vite, sans sacrifier ce qui doit tenir
-- **Sur mesure** — les fonctions dont vous avez besoin, pas celles du logiciel du marché
-- **À vous** — le code vous appartient. Repris ou transféré quand vous voulez
-
-**CTA** Réserver un appel
+Source live : `Output/Copy_methode-off-duty_2026-10-06.md`. Ne pas republier l’ancienne version courte.
 
 ---
 

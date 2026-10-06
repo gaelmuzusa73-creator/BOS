@@ -37,6 +37,7 @@ Hors site : Formations, Blueprint.
 - Canal prévu : site + appel (Calendly)
 - Copy Accueil (live) : `Output/Copy_accueil-off-duty_2026-10-06.md`
 - Copy Services (live) : `Output/Copy_services-off-duty_2026-10-06.md`
+- Copy Méthode (live) : `Output/Copy_methode-off-duty_2026-10-06.md`
 - Copy site (autres pages) : `Output/Copy_site-off-duty_2026-10-05.md`
 - Funnel Accueil : `Output/Funnel_Audit_2026-10-06.md`
 
