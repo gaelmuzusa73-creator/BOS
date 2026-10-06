@@ -116,41 +116,7 @@ Coller ici : qui tu es, 3 faits vérifiables, un métier que tu as réellement s
 
 # PAGE 6 — À propos `/a-propos`
 
-**H1**
-On a d’abord construit. Ensuite on l’a proposé aux autres.
-
-**Histoire**
-La plupart des outils IA testés en entreprise finissent oubliés — parce que personne ne les met en production.
-Beaucoup d’agences vendent un audit. Nous, on livre un outil qui tourne, utilisé dès la première semaine.
-
-**Avant Off Duty ⏳**
-Phrase à activer **seulement** après vérif du nom et du statut :
-
-> Avant Off Duty, le fondateur a construit [UCB Paiements — nom exact à confirmer], une plateforme de paiements académiques utilisée par une université. Des vrais utilisateurs. En production.
-
-Tant que ce n’est pas vérifié : **supprimer le paragraphe**. Ne pas laisser un ⏳ visible.
-
-**Pourquoi « off duty »**
-Votre entreprise doit tourner quand vous êtes off duty — week-end, vacances, ou simplement occupé à autre chose que l’opérationnel.
-
-**Équipe ⏳**
-Version publiable sans chiffre inventé :
-
-Une petite équipe. Pas une usine.
-Chaque projet : un interlocuteur unique, une équipe technique derrière.
-
-(Taille exacte : à ajouter seulement si tu le veux.)
-
-**Marché**
-États-Unis, Europe, ailleurs. 100 % à distance : visio, partage d’écran, suivi asynchrone.
-
-**On ne fait pas**
-
-- Un audit qui finit dans un tiroir
-- Un outil que personne n’ouvrira
-- Un contrat de 12 mois avant d’avoir prouvé quelque chose en une semaine
-
-**CTA** Réserver un premier appel
+Source live : `Output/Copy_apropos-off-duty_2026-10-06.md`. Histoire de marché. Pas de bio fondateur. Pas de UCB tant que non vérifié.
 
 ---
 

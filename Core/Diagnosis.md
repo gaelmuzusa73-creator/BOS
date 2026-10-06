@@ -8,7 +8,7 @@
 - **Justification :** matrice PMF — le copy est prêt, l’offre a un mécanisme (7 jours, code au client). Personne ne la voit. En B2B/service/premier client, le volume se fait par des conversations, pas par une 4e passe de texte ni un 12e secteur. Le pattern des derniers cycles = travail fake (#2 apprendre sans exécuter, #5 procrastination productive, #11 objet brillant). Gatari a raison sur la **séquence** (marché → mots du résultat → test → réécriture). Il a tort comme **pivot** : Off Duty n’est pas une agence d’acquisition clients.
 - **Mindset (Phase 0) :** objet brillant + travail fake. Protocole actif : 1 confrontation marché / 24h, interdiction de nouveau contenu/skill tant que 1 message n’est pas parti.
 - **Prochaine validation (7j) :** ≥ 5 messages envoyés, ≥ 1 réponse réelle. Accueil + Services sont écrits — ça ne change pas le goulot.
-- **Note 2026-10-06 :** copy page par page (Accueil, Services, Méthode, Audit). On livre. Goulot inchangé : une conversation.
+- **Note 2026-10-06 :** copy page par page jusqu’à À propos. Histoire = marché, pas bio. Goulot inchangé : une conversation.
 - **Chase :** refusé comme plan 90j. Palier traction 0. Extrait utile : un seul format de consulting (l’audit = la roadmap), pas un deuxième business à scaler.
 
 ## Ancien goulot (historique)

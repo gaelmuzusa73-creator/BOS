@@ -39,6 +39,7 @@ Hors site : Formations, Blueprint.
 - Copy Services (live) : `Output/Copy_services-off-duty_2026-10-06.md`
 - Copy Méthode (live) : `Output/Copy_methode-off-duty_2026-10-06.md`
 - Copy Audit (live) : `Output/Copy_audit-off-duty_2026-10-06.md`
+- Copy À propos (live) : `Output/Copy_apropos-off-duty_2026-10-06.md`
 - Copy site (autres pages) : `Output/Copy_site-off-duty_2026-10-05.md`
 - Funnel Accueil : `Output/Funnel_Audit_2026-10-06.md`
 
