@@ -30,3 +30,5 @@ Secteurs : 12 ICP détaillés (qui, phrase, résultat, ce qui reste humain). Pas
 
 Contact : page courte, calquée sur « Tell us where you’re at ». Pas de budget, pas de CA. Calendrier = la page. Livrable : `Output/Copy_contact-off-duty_2026-10-06.md`. Les 8 pages du site sont écrites.
 
+Gaël veut le modèle Gatari. Hypothèse écrite, pas pivot du site : bâtiment, demandes → rendez-vous en moins de 3 minutes, 2 500 € d’avance, pas de promesse de volume. Livrable : `Output/Product_Acquisition_2026-10-06.md`. Prochaine action : un message.
+

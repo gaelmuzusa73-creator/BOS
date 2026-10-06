@@ -8,6 +8,18 @@
 **CTA :** Réserver un appel. 30 min, gratuit. Ils repartent avec une roadmap d’implémentation. Au mieux on la construit avec eux. Au pire ils la gardent (eux-mêmes, ou qui ils veulent).  
 **Prix :** non fixé (pas de grille publique tant que ce n’est pas calé).
 
+## Offre demandée — modèle Gatari (hypothèse)
+
+Gaël veut le modèle de Serge : installer, chez une boîte locale, le système qui transforme les demandes en rendez-vous, encaisser d’avance, leur laisser le système.
+
+**Ce n’est pas encore l’offre du site.** Le site dit : on ne vend pas l’acquisition de clients. On ne le réécrit pas avant 5 conversations.
+
+- **Niche unique :** dirigeant bâtiment / rénovation, francophonie.
+- **Promesse :** les demandes ne meurent plus. Réponse en moins de 3 minutes, rendez-vous, relance. Pas « agent IA ». Pas « X chantiers ».
+- **Prix :** 2 500 € d’avance pour le premier. 7 500 € quand un cas réel existe. 500 €/mois après, pour le suivi seulement.
+- **Pas inclus au premier chèque :** les pubs, un closer, une garantie de volume.
+- **Spec :** `Output/Product_Acquisition_2026-10-06.md`
+
 ## Persona
 Dirigeant de TPE/PME (artisan, cabinet, commerce, multi-équipes) qui a déjà testé l’IA / ChatGPT / des webinaires. Outils qui dorment. Personne ne sait ce que ça rapporte. Peur : « ils ne comprendront pas mon métier / je vais dépendre d’eux ».
 

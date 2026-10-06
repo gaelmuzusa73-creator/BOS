@@ -1,5 +1,6 @@
 # Actions
 
+- **Envoyer le message bâtiment à UNE personne** — texte dans `Output/Product_Acquisition_2026-10-06.md`. Une question. Pas de lien. Pas d’IA dans le message.
 - **Coller la page Contact** `Output/Copy_contact-off-duty_2026-10-06.md`. H1 : « Dites-nous où vous en êtes. » Le calendrier est la page. Le formulaire seulement s’il ne s’ouvre pas.
 - **Coller la page Secteurs** `Output/Copy_secteurs-off-duty_2026-10-06.md`. H1 : « Votre métier. La tâche qui vous plafonne. » Un bouton.
 - **Coller la FAQ** `Output/Copy_faq-off-duty_2026-10-06.md`. H1 : « Les objections, dites tout haut. » Un bouton en bas.
