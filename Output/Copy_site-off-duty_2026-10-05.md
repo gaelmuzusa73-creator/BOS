@@ -1,5 +1,17 @@
 # Copy — Site Off Duty — 2026-10-05
 
+Périmé comme texte live. Source du 2026-10-06, posture partenaire de croissance :
+
+- Accueil `Output/Copy_accueil-off-duty_2026-10-06.md`
+- Services `Output/Copy_services-off-duty_2026-10-06.md`
+- Méthode `Output/Copy_methode-off-duty_2026-10-06.md`
+- Audit `Output/Copy_audit-off-duty_2026-10-06.md`
+- À propos `Output/Copy_apropos-off-duty_2026-10-06.md`
+- FAQ `Output/Copy_faq-off-duty_2026-10-06.md`
+- Secteurs `Output/Copy_secteurs-off-duty_2026-10-06.md`
+
+Le contact garde le même formulaire. Chapô : 30 minutes. Vous repartez avec la roadmap. Au mieux on la construit avec vous. Au pire vous la gardez.
+
 Brief
 - Audience : dirigeant de TPE/PME (artisan, cabinet, commerce, entreprise) qui a déjà « testé l’IA »
 - Action : **Réserver un appel** (30 min, gratuit, sans engagement)

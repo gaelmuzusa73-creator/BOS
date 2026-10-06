@@ -2,6 +2,7 @@
 
 ## Offre
 **Nom :** Off Duty  
+**Position :** partenaire de croissance. On retire le plafond opérationnel pour que la boîte grandisse. On ne vend pas l’acquisition de clients.
 **Promesse :** On automatise votre boîte. Vous restez off duty.  
 **Mécanisme :** Trouver 1–2 tâches qui valent l’effort → construire un livrable en production en 7 jours → former l’équipe. Sprint par sprint. Code au client.  
 **CTA :** Réserver un appel. 30 min, gratuit. Ils repartent avec une roadmap d’implémentation. Au mieux on la construit avec eux. Au pire ils la gardent (eux-mêmes, ou qui ils veulent).  
@@ -31,7 +32,9 @@ Dirigeant de TPE/PME (artisan, cabinet, commerce, multi-équipes) qui a déjà t
 Hors site : Formations, Blueprint.
 
 ## Marketing
-- Message actuel : On automatise votre boîte. Vous restez off duty.
+- Message actuel : Votre partenaire de croissance. On automatise votre boîte. Vous restez off duty.
+- Copy FAQ : `Output/Copy_faq-off-duty_2026-10-06.md`
+- Copy Secteurs : `Output/Copy_secteurs-off-duty_2026-10-06.md`
 - Mots clients : outils qui dorment · personne ne l’a utilisé · copier-coller · on rate des appels · on ne sait pas ce que ça rapporte
 - Preuves : **aucune publique** — ne pas inventer
 - Canal prévu : site + appel (Calendly)

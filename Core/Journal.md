@@ -22,3 +22,5 @@ Audit / consulting écrit. H1 : « Vous repartez avec la roadmap. Pas avec un sl
 
 À propos repris : plus un CV. Voix « notre fondateur, Gaël Muzusa ». Le dirigeant est le sujet. L’année freelance est sortie du texte.
 
+Copy entier repris en partenaire de croissance (identifier, livrer, rester jusqu’à l’usage). Pas de stats inventées. La croissance = capacité, pas « on vous ramène des clients ». Accueil, Services, Méthode, Audit, À propos, FAQ, Secteurs.
+

@@ -1,71 +1,59 @@
 # Copy — Accueil Off Duty — 2026-10-06
 
 Brief
-- Audience : dirigeant TPE/PME qui a déjà « testé l’IA »
-- Action : **Réserver un appel** (30 min, gratuit, sans engagement)
-- Niveau de conscience : **4** — il sent que ça ne marche pas, il ne sait pas le mécanisme
-- Formule : **PAS** sur le fold · **PAISA** sur le reste de la page
-- Page : Accueil uniquement. Les 7 autres pages n’existent pas ici.
+- Position : **partenaire de croissance** (posture Morningside : on identifie, on livre, on reste jusqu’à l’usage — pas un vendeur d’outils)
+- Audience : dirigeant dont la boîte ne peut plus grandir tant qu’il est le système (niveau **4**)
+- Action : **Réserver un appel**
+- Formule : **PAISA**
+- Promesse de marque conservée : On automatise votre boîte. Vous restez off duty.
+- Croissance, ici : la capacité à prendre plus de travail sans ajouter le dirigeant au milieu. Pas « on vous ramène des clients ».
+- Preuve : aucune. Pas de compteur, pas de cas.
 
 Voix du client
-- Mot-clé Colisée : automatiser (pas « agence IA »)
-- Tableau Halo :
-
-| Douleurs | Peurs si rien ne change | Désirs | Insultes aux alternatives |
-|---|---|---|---|
-| « Les outils dorment. » | On rate encore des appels | Un truc qui tourne tout seul | Webinaires qui ne changent rien |
-| « Personne ne l’a jamais vraiment utilisé. » | L’équipe reste collée au copier-coller | Récupérer des soirées / le week-end | ChatGPT générique |
-| « On ne sait pas ce que ça rapporte. » | Dépendre d’une usine à gaz | Que l’équipe s’en serve vraiment | Audit qui finit dans un tiroir |
-| « On rate des appels toute la journée. » | Devenir dépendant d’eux | Partir off duty sans que ça casse | SaaS trop étroit / projet IT trop long |
-
+- Mot-clé Colisée : automatiser / faire grandir sans y passer ses soirées
 - 5 phrases volées :
-  1. « On a testé ChatGPT, personne ne l’a jamais vraiment utilisé. »
-  2. « Personne ne sait dire ce que ça rapporte. »
-  3. « Les outils dorment. »
-  4. « Mon équipe passe la moitié de sa journée en copier-coller. »
-  5. « Ils ne vont pas comprendre mon métier. »
+  1. « Les outils dorment. »
+  2. « Personne ne sait ce que ça rapporte. »
+  3. « Mon équipe passe la moitié de sa journée en copier-coller. »
+  4. « On rate des appels toute la journée. »
+  5. « On a essayé ChatGPT, personne ne l’a jamais vraiment utilisé. »
 
 Hooks (5)
-1. On automatise votre boîte. Vous restez off duty. *(titre — on garde)*
-2. Vous avez testé l’IA. Trois mois plus tard, l’onglet est encore ouvert.
-3. Ce qui manque, ce n’est pas un outil de plus. C’est quelqu’un qui le met en production.
-4. Vous ne payez pas un essai. Vous payez un outil qui tourne.
-5. *(expérimental)* Votre boîte doit tourner le dimanche. Sans vous.
+1. Votre partenaire de croissance. *(titre)*
+2. On ne parle pas d’IA. On la met dans la semaine.
+3. On automatise votre boîte. Vous restez off duty.
+4. Vous ne payez pas un essai. Vous payez ce qui libère de la capacité.
+5. *(expérimental)* La croissance bloque là où vous êtes encore le système.
 
 Variantes hook
-- A *(live)* : On automatise votre boîte. Vous restez off duty.
-- B : Vous restez off duty. On automatise le reste.
+- A *(live)* : Votre partenaire de croissance.
+- B : On automatise votre boîte. Vous restez off duty.
 
 CTA
-**Réserver un appel** → Calendly (ou `/contact` s’il n’est pas branché).  
-Après le clic : 30 min visio. Vous repartez avec un avis clair et une roadmap d’implémentation. Au mieux, on la construit avec vous. Au pire, vous la gardez.  
-Un seul bouton. Répété. Jamais un second verbe (« découvrir », « voir les services ») au-dessus de la ligne de flottaison.
-
-Preuve utilisée
-Absente. Pas de chiffre, pas de cas, pas de « des centaines de clients ».  
-Compensation : risque inversé (appel gratuit, sprint par sprint, code à vous) + mécanisme (7 jours, leurs outils, formation sur leurs données).
+**Réserver un appel**
+30 minutes. Gratuit. Vous repartez avec la roadmap — qu’on la construise ensemble, ou pas.
 
 Test 5 secondes
-1. Pour qui ? Un dirigeant dont l’IA dort.
-2. Quel résultat ? Un outil qui tourne. Il reste off duty.
+1. Pour qui ? Une entreprise qui veut grandir.
+2. Quel résultat ? La boîte tourne et grandit. Le dirigeant reste off duty.
 3. Quoi faire ? Réserver un appel.
 
 ---
 
-# Texte — coller tel quel
+# Texte
 
-## 1. Hero (fold — 5 secondes)
+## Hero
 
 **H1**
+Votre partenaire de croissance.
+
+**Sous-titre**
 On automatise votre boîte.
 Vous restez off duty.
 
-**Sous-titre**
-Vous avez testé l’IA. Les outils dorment. Personne ne sait ce que ça rapporte.
+On trouve ce qui vaut vraiment d’être construit. On le livre. On forme votre équipe jusqu’à ce que ce soit simplement votre façon de travailler.
 
-On trouve la tâche qui coûte vraiment. On la met en production en 7 jours. On forme votre équipe à s’en servir.
-
-Vous ne payez pas un essai. Vous payez un outil qui tourne.
+Vous ne payez pas un essai. Vous payez ce qui libère de la capacité — pour grandir sans vous ajouter au milieu.
 
 **Bouton**
 Réserver un appel
@@ -74,109 +62,72 @@ Réserver un appel
 30 minutes. Gratuit.
 Vous repartez avec la roadmap — qu’on la construise ensemble, ou pas.
 
----
+## Le constat
 
-## 2. Le constat — Problem + Agitate
+Vous avez testé des outils. Vous avez suivi des webinaires.
 
-Vous avez testé des outils d’IA. Vous avez suivi des webinaires.
+Quelques mois plus tard, trois choses sont vraies.
 
-Quelques mois plus tard, trois choses sont vraies :
+Les outils dorment.
+Les essais n’ont jamais quitté la phase de test.
+Personne ne sait dire ce que ça rapporte.
 
-Les outils dorment dans un onglet.  
-Les essais n’ont jamais quitté la phase de test.  
-Personne dans l’équipe ne sait dire ce que ça rapporte.
+Et la boîte, elle, veut grandir. Les demandes arrivent. L’équipe est déjà pleine. Vous rattrapez le dimanche.
 
-Ça continue.
+Chaque appel manqué compose le suivant.
+Le copier-coller mange la moitié des journées.
+Vous êtes devenu le plafond.
 
-Chaque appel manqué compose le suivant.  
-Votre équipe passe encore la moitié de sa journée à copier-coller entre deux logiciels.  
-Vous, vous rattrapez le dimanche ce qui n’a pas tourné dans la semaine.
+Vous n’êtes pas en retard sur l’IA.
+Ce qui manque, c’est un partenaire qui la met dans le travail — et qui reste jusqu’à ce que l’équipe s’en serve.
 
-Vous n’êtes pas en retard.
+## Ce qui a déjà échoué
 
-Ce qui manque, ce n’est pas un outil de plus.  
-C’est quelqu’un qui le met en production.
+**Le webinaire.** L’équipe écoute. La semaine ne change pas.
 
----
+**L’outil seul.** Un onglet de plus. Pas branché sur vos appels, vos dossiers, votre métier. Donc personne ne l’ouvre quand ça compte.
 
-## 3. Ce qui a déjà échoué — Invalidate
+**L’audit qui reste un constat.** Une liste. Zéro chose en production. Vous avez payé pour entendre ce que vous saviez.
 
-Trois chemins que presque tout le monde a pris. Ils cassent au même endroit.
+Un partenaire de croissance ne s’arrête pas au constat. Il livre ce qui tourne, puis il s’assure que ça reste.
 
-**Le webinaire, le prompt, le “on va se former”.**  
-L’équipe écoute. Personne ne change sa journée. Trois mois plus tard, même Excel.
+## Comment on travaille avec vous
 
-**ChatGPT tout seul.**  
-Un onglet de plus. Pas branché sur vos appels, vos dossiers, votre façon de travailler. Donc personne ne l’ouvre quand ça compte.
+**On identifie.**
+On regarde comment votre équipe travaille vraiment. Où le temps part. Ce qui ralentit. Ce qui s’empile. On garde une ou deux tâches qui valent l’effort. On écarte le reste. Le bon partenaire ne construit pas tout. Il construit ce qui fait grandir.
 
-**L’audit qui finit dans un tiroir.**  
-Un slide. Une liste. Zéro outil en production. Vous avez payé pour un constat que vous aviez déjà.
+**On construit.**
+Sur vos outils. Ou à la place de ce que vous faites encore à la main. Un livrable en production à chaque sprint de 7 jours. Le code est à vous. Pas une démo. Pas un outil imposé.
 
-Off Duty existe pour la quatrième option : un livrable qui tourne, utilisé par votre équipe dès la première semaine.
+**On ancre.**
+On forme votre équipe sur son outil et ses données. On ajuste après usage. Quand on s’efface, ce n’est plus un projet. C’est votre façon de travailler. Vous, vous restez off duty. La boîte, elle, peut prendre plus.
 
----
+## Le pattern
 
-## 4. Trois gestes — Solution
+**« On rate des appels toute la journée. Chaque appel manqué compose le suivant. »**
+Un agent répond dès la première sonnerie, 24/7. Il prend le rendez-vous. L’urgent part vers un humain. Vous ne perdez plus la croissance au téléphone.
 
-**On trouve.**  
-On regarde comment votre équipe travaille vraiment — où le temps part, ce qui ralentit, ce qui s’empile. On garde une ou deux tâches qui valent l’effort. On écarte le reste.
+**« Mon équipe passe la moitié de sa journée en copier-coller. »**
+Devis, relances, saisie, reporting tournent sans que personne y touche. Ces heures reviennent au travail qui fait grandir.
 
-**On construit.**  
-On avance sur vos outils actuels. Ou on remplace ce que vous faites encore à la main. Un livrable en production à chaque sprint de 7 jours. Le code est à vous.
+**« On a essayé ChatGPT. Personne ne l’a jamais vraiment utilisé. »**
+Un outil calé sur votre métier, branché sur ce que vous avez déjà. Pas un chatbot générique.
 
-**On ancre.**  
-On forme votre équipe sur *son* outil et *ses* données. On ajuste après usage. Quand on s’efface, ce n’est plus un projet. C’est votre façon de travailler.
+## Pourquoi un partenaire, pas un prestataire
 
----
+Un prestataire livre et disparaît.
+Un partenaire reste jusqu’à l’usage.
 
-## 5. Le pattern — douleurs → correctifs
+On est spécialistes du travail d’abord, de l’IA ensuite. On ne pousse pas un outil. On part de votre semaine. Carnet, Excel, CRM, SMS. Tous secteurs.
 
-Ils le disent comme ça. On livre ça.
+Rien n’est facturé avant que le premier sprint soit validé.
+Le code est à vous.
+Sprint par sprint. Pas 12 mois pour voir.
 
-**« On rate des appels toute la journée. Chaque appel manqué compose le suivant. »**  
-Un agent vocal répond dès la première sonnerie, 24/7. Il prend le rendez-vous. L’urgent part vers un humain.
+## Clôture
 
-**« Mon équipe passe la moitié de sa journée en copier-coller entre outils. »**  
-Les tâches qui se répètent tournent seules, en arrière-plan. Devis, relances, saisie, reporting — sans que personne y touche.
-
-**« On a essayé ChatGPT. Personne ne l’a jamais vraiment utilisé. »**  
-Un outil calé sur *votre* métier. Pas un chatbot générique. Branché sur ce que vous utilisez déjà — carnet, Excel, CRM, SMS.
-
----
-
-## 6. Pourquoi ça tient — risque inversé (pas de preuve fantôme)
-
-On n’invente pas de cas. Voici ce qui est vrai dès le premier jour :
-
-Rien n’est facturé avant que le premier sprint soit validé.  
-Vous êtes propriétaire de ce qu’on construit.  
-Un interlocuteur unique. Une équipe derrière.  
-Sprint par sprint. Pas un contrat de 12 mois pour « voir ».
-
-Le premier appel est gratuit et sans engagement.  
-Vous testez si on comprend votre métier — avant de nous confier quoi que ce soit.
-
----
-
-## 7. Trois objections (le reste est sur FAQ)
-
-**Vous n’êtes pas une agence de plus qui vend un audit ?**  
-Non. On identifie la tâche qui coûte le plus cher. On la construit en une semaine. Rien n’est fini tant que votre équipe ne s’en sert pas.
-
-**Ça marche si on n’est pas digital ?**  
-Oui. CRM, carnet, SMS, Excel — on part de ce que vous avez.
-
-**Je vais dépendre de vous ?**  
-Non. Le code est à vous. On continue ensemble, ou vous reprenez la main. Vous gardez l’accès et la doc dans tous les cas.
-
----
-
-## 8. Clôture — Ask
-
-L’IA est déjà dans votre secteur.
-
-Ceux qui prennent de l’avance, ce ne sont pas ceux qui la testent.  
-Ce sont ceux qui la mettent en production.
+La croissance ne vient pas d’un outil de plus.
+Elle vient d’une boîte qui tient quand vous n’êtes pas au milieu.
 
 **Réserver un appel**
 
@@ -185,54 +136,14 @@ Ce sont ceux qui la mettent en production.
 Au mieux, on la construit avec vous.
 Au pire, vous la gardez. Pour la faire vous-même, ou la confier à qui vous voulez.
 
-**P.S.** Si votre équipe a déjà « essayé l’IA » et que rien n’a bougé, c’est exactement le cas pour lequel on a créé Off Duty. Pas besoin d’être expert. On s’occupe de la production. Vous, vous restez off duty.
+**P.S.** Si l’IA est déjà « testée » chez vous et que vous êtes encore le plafond, c’est le moment d’un partenaire. Pas d’un énième essai.
 
----
+## EN
 
-# Accueil EN (toggle)
-
-**H1**  
-We automate your business.  
-You stay off duty.
-
-**Sub**  
-You’ve tried AI. The tools gather dust. Nobody can say what they’re returning.
-
-We find the task that actually costs you. We ship it in 7 days. We train your team to run it.
-
-You don’t pay for a trial. You pay for something that runs.
-
-**CTA** Book a call  
-**Under** 30 minutes. Free. You leave with the roadmap — whether we build it together, or not.
-
-**Reality**  
-Tried the tools. Sat through the webinars. A few months later the tab is still open and nobody uses it. You’re not behind. What’s missing is someone who ships it.
-
-**What already failed**  
-Training that changes nothing. ChatGPT in a tab. An audit in a drawer.
-
-**Three moves**  
-We find it. We build it (live every 7-day sprint, on your tools, code you own). We make it stick.
-
-**Close**  
-AI is already in your industry. The ones pulling ahead put it into production.  
-**Book a call**
-
-30 minutes. You leave with a clear take — and a full implementation roadmap.
-
-Best case, we build it with you.
-Worst case, you keep it. Run it yourself, or hand it to whoever you want.
-
-Pas de cas inventé en anglais non plus.
-
----
-
-# Spec fold (pour qui code la page)
-
-Au-dessus de la ligne, uniquement :
-1. H1  
-2. Sous-titre (3 phrases max)  
-3. Un bouton « Réserver un appel »  
-4. Micro-ligne
-
-Pas de second bouton. Pas de carrousel. Pas de logo clients fantômes. Pas de bloc Preuve.
+**H1** Your growth partner.
+**Sub** We automate your business. You stay off duty.
+We find what’s worth building. We ship it. We train your team until it’s just how work gets done.
+You don’t pay for a trial. You pay for capacity — so the company can grow without you in the middle.
+**CTA** Book a call
+30 minutes. Free. You leave with the roadmap — whether we build it together, or not.
+**Close** Best case, we build it with you. Worst case, you keep it. Run it yourself, or hand it to whoever you want.
