@@ -330,7 +330,7 @@ Ce que l’IA peut automatiser chez vous. Un rapport, par mail.
 Réserver un appel
 
 **Chapô**
-30 minutes. On regarde comment vous travaillez. Vous repartez avec un avis clair.
+30 minutes. Vous repartez avec un avis clair — et une roadmap d’implémentation complète. Au mieux, on la construit avec vous. Au pire, vous la gardez.
 
 *(Si Calendly est au-dessus : le formulaire ci-dessous = filet, pas un 2e CTA concurrent. Un seul chemin principal = le calendrier.)*
 

@@ -14,3 +14,5 @@ Services réécrit (AIDA + mécanisme, 3 livrables en résultat pas en catalogue
 
 Méthode réécrite (6 étapes productisées, 3 peurs traitées, risque inversé). Chase refusé comme plan 90j — phase PMF, 0 client. On a gardé une idée : le déroulé EST la machine. Livrable : `Output/Copy_methode-off-duty_2026-10-06.md`.
 
+CTA recalé sur Accueil, Services, Méthode (FR + EN) : l’appel laisse une roadmap d’implémentation, qu’on la construise ensemble ou pas.
+

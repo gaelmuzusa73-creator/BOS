@@ -28,7 +28,7 @@ Variantes hook
 
 CTA
 **Réserver un appel** → même Calendly que l’Accueil.  
-Après : 30 min. On dit quelle des 3 briques vaut l’effort chez vous — ou aucune.  
+Après : 30 min. Vous repartez avec un avis clair et la roadmap. Au mieux, on la construit avec vous. Au pire, vous la gardez.  
 Pas « Réserver un audit » sur cette page. Un verbe.
 
 Preuve utilisée
@@ -60,7 +60,8 @@ Vous n’avez pas besoin de devenir expert en IA. Vous avez besoin d’un outil 
 Réserver un appel
 
 **Sous le bouton**
-30 minutes. Gratuit. Sans engagement. On vous dit par laquelle des trois commencer — ou si ce n’est pas le moment.
+30 minutes. Gratuit.
+Vous repartez avec la roadmap — qu’on la construise ensemble, ou pas.
 
 ---
 
@@ -178,7 +179,10 @@ Vous avez besoin d’**un** truc que l’équipe utilise la semaine prochaine.
 
 **Réserver un appel**
 
-30 minutes. On regarde votre opérationnel. On vous dit : outil métier, automatisation, agent — ou rien, pas maintenant.
+30 minutes. Vous repartez avec un avis clair — et une roadmap d’implémentation complète : outil métier, automatisation, ou agent, dans cet ordre.
+
+Au mieux, on la construit avec vous.
+Au pire, vous la gardez. Pour la faire vous-même, ou la confier à qui vous voulez.
 
 **P.S.** Si ChatGPT est déjà ouvert dans un onglet et que personne ne s’en sert, ne prenez pas un quatrième outil. Prenez quelqu’un qui met le premier en production.
 

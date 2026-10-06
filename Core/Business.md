@@ -4,7 +4,7 @@
 **Nom :** Off Duty  
 **Promesse :** On automatise votre boîte. Vous restez off duty.  
 **Mécanisme :** Trouver 1–2 tâches qui valent l’effort → construire un livrable en production en 7 jours → former l’équipe. Sprint par sprint. Code au client.  
-**CTA :** Réserver un appel (30 min, gratuit, sans engagement).  
+**CTA :** Réserver un appel. 30 min, gratuit. Ils repartent avec une roadmap d’implémentation. Au mieux on la construit avec eux. Au pire ils la gardent (eux-mêmes, ou qui ils veulent).  
 **Prix :** non fixé (pas de grille publique tant que ce n’est pas calé).
 
 ## Persona

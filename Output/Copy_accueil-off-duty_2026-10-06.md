@@ -38,7 +38,7 @@ Variantes hook
 
 CTA
 **Réserver un appel** → Calendly (ou `/contact` s’il n’est pas branché).  
-Après le clic : 30 min visio. On regarde comment vous travaillez. Vous repartez avec un avis clair : ça vaut le coup, ou pas.  
+Après le clic : 30 min visio. Vous repartez avec un avis clair et une roadmap d’implémentation. Au mieux, on la construit avec vous. Au pire, vous la gardez.  
 Un seul bouton. Répété. Jamais un second verbe (« découvrir », « voir les services ») au-dessus de la ligne de flottaison.
 
 Preuve utilisée
@@ -71,7 +71,8 @@ Vous ne payez pas un essai. Vous payez un outil qui tourne.
 Réserver un appel
 
 **Sous le bouton**
-30 minutes. Gratuit. Sans engagement.
+30 minutes. Gratuit.
+Vous repartez avec la roadmap — qu’on la construise ensemble, ou pas.
 
 ---
 
@@ -179,7 +180,10 @@ Ce sont ceux qui la mettent en production.
 
 **Réserver un appel**
 
-30 minutes. Vous repartez avec un avis clair : quelle tâche vaut l’effort chez vous — et si ça n’en vaut pas la peine, on vous le dit.
+30 minutes. Vous repartez avec un avis clair — et une roadmap d’implémentation complète.
+
+Au mieux, on la construit avec vous.
+Au pire, vous la gardez. Pour la faire vous-même, ou la confier à qui vous voulez.
 
 **P.S.** Si votre équipe a déjà « essayé l’IA » et que rien n’a bougé, c’est exactement le cas pour lequel on a créé Off Duty. Pas besoin d’être expert. On s’occupe de la production. Vous, vous restez off duty.
 
@@ -199,7 +203,7 @@ We find the task that actually costs you. We ship it in 7 days. We train your te
 You don’t pay for a trial. You pay for something that runs.
 
 **CTA** Book a call  
-**Under** 30 minutes. Free. No commitment.
+**Under** 30 minutes. Free. You leave with the roadmap — whether we build it together, or not.
 
 **Reality**  
 Tried the tools. Sat through the webinars. A few months later the tab is still open and nobody uses it. You’re not behind. What’s missing is someone who ships it.
@@ -213,6 +217,11 @@ We find it. We build it (live every 7-day sprint, on your tools, code you own). 
 **Close**  
 AI is already in your industry. The ones pulling ahead put it into production.  
 **Book a call**
+
+30 minutes. You leave with a clear take — and a full implementation roadmap.
+
+Best case, we build it with you.
+Worst case, you keep it. Run it yourself, or hand it to whoever you want.
 
 Pas de cas inventé en anglais non plus.
 

@@ -31,8 +31,10 @@ Variantes hook
 - B : Six étapes. Vous pouvez vous arrêter à chacune.
 
 CTA
-**Réserver un appel** → même Calendly. 30 min. Avis clair : ça vaut le coup, ou pas.  
-Pas de second bouton « Voir les services » dans le hero.
+**Réserver un appel** → même Calendly.
+Sous le bouton : 30 minutes. Gratuit. Vous repartez avec la roadmap — qu’on la construise ensemble, ou pas.
+Clôture : Au mieux, on la construit avec vous. Au pire, vous la gardez — pour la faire vous-même, ou la confier à qui vous voulez.
+Pas de second bouton dans le hero.
 
 Preuve utilisée
 Absente. Compensation : transparence du déroulé + rien facturé avant sprint validé + code à vous + appel gratuit.
@@ -62,7 +64,8 @@ Vous n’achetez pas un projet de six mois. Vous achetez un premier sprint. Puis
 Réserver un appel
 
 **Sous le bouton**
-Étape 01. 30 minutes. Gratuit. Sans engagement.
+30 minutes. Gratuit.
+Vous repartez avec la roadmap — qu’on la construise ensemble, ou pas.
 
 ---
 
@@ -81,11 +84,14 @@ Si ça ne vaut pas l’effort, on vous le dit à l’étape 01. Pas après une f
 ## 3. Les six étapes
 
 **01 — Le premier appel**  
-30 minutes en visio. Gratuit. Sans engagement.
+30 minutes en visio. Gratuit.
 
 On regarde comment vous travaillez aujourd’hui. Outils, carnet, Excel, SMS — peu importe où vous en êtes.
 
-Vous repartez avec un avis clair : ça vaut le coup, ou pas.
+Vous repartez avec un avis clair, et une roadmap d’implémentation complète : quoi automatiser, dans quel ordre, avec quoi.
+
+Au mieux, on la construit avec vous.
+Au pire, vous la gardez. Pour la faire vous-même, ou la confier à qui vous voulez.
 
 C’est le test. Pour vous : est-ce qu’on comprend le métier. Pour nous : est-ce qu’il y a une tâche qui justifie un sprint.
 
@@ -173,7 +179,10 @@ Le déroulé est là. La prochaine étape a un numéro : **01**.
 
 **Réserver un appel**
 
-30 minutes. Vous repartez avec un avis. Si ce n’est pas le moment, vous l’avez entendu de nous — pas après un devis.
+30 minutes. Vous repartez avec un avis clair — et une roadmap d’implémentation complète.
+
+Au mieux, on la construit avec vous.
+Au pire, vous la gardez. Pour la faire vous-même, ou la confier à qui vous voulez.
 
 **P.S.** Si vous avez déjà « essayé l’IA » et que ça n’a rien donné, lisez l’étape 02. On ne recommence pas par un outil. On recommence par la tâche.
 
