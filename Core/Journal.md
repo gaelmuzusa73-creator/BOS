@@ -24,3 +24,5 @@ Audit / consulting écrit. H1 : « Vous repartez avec la roadmap. Pas avec un sl
 
 Copy entier repris en partenaire de croissance (identifier, livrer, rester jusqu’à l’usage). Pas de stats inventées. La croissance = capacité, pas « on vous ramène des clients ». Accueil, Services, Méthode, Audit, À propos, FAQ, Secteurs.
 
+FAQ réécrite pour briser les objections dans les mots du dirigeant. Livrable : `Output/Copy_faq-off-duty_2026-10-06.md`. Un CTA en bas.
+
