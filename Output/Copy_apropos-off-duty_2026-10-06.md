@@ -3,43 +3,40 @@
 Brief
 - Audience : dirigeant qui veut savoir à qui il parle (niveau **2**)
 - Action : **Réserver un appel**
-- Formule : **histoire de marché + AIDA**. Pas une bio.
-- Sources de l’histoire : le pattern Hormozi (le système bat la volonté, on vend le fait, pas le cours), Liam Ottley (l’IA meurt faute de mise en production, done-for-you), Serge Gatari (ils ont monté la boîte pour être libres, l’opérationnel les a repris — on parle le résultat, pas l’outil)
-- Interdit : bio du fondateur, chiffres, cas client, nom de projet non vérifié
-
-Chase
-Pas un plan de scale. La page fixe **une** croyance. Pas une deuxième offre (pas de formation, pas de « on vous ramène des clients »).
+- Formule : **bio + mécanisme**. Première personne, puis l’entreprise.
+- Faits utilisés, et rien d’autre : Gaël. Un an freelance. Off Duty créé pour aider le plus d’entreprises possible.
+- Logique : Hormozi (les heures ne scale pas, le système oui — aider beaucoup = un déroulé, pas un héros) · Ottley (il a livré lui-même, puis il a productisé la mise en production) · Gatari (la boîte doit tourner sans celui qui la porte ; on vend ce résultat, pas « l’IA »)
 
 Voix du client
 - Mot-clé Colisée : que la boîte tourne sans moi
 - 5 phrases volées :
   1. « Les outils dorment. »
   2. « Personne ne l’a jamais vraiment utilisé. »
-  3. « On ne sait pas ce que ça rapporte. »
+  3. « Je vais devenir dépendant d’eux. »
   4. « Ils ne vont pas comprendre mon métier. »
-  5. « Je vais devenir dépendant d’eux. »
+  5. « On ne sait pas ce que ça rapporte. »
 
 Hooks (5)
-1. Ils ont monté leur boîte pour être libres. L’opérationnel les a repris. *(titre)*
-2. Le problème, ce n’était pas l’IA. C’était que personne ne la mettait en production.
-3. Un outil que personne n’ouvre n’a rien résolu.
-4. Votre boîte doit tourner quand vous êtes off duty.
-5. *(expérimental)* Le dimanche soir, c’est encore vous le système.
+1. Un an, j’étais le freelance. Off Duty existe pour aider plus qu’une personne. *(titre)*
+2. Si je m’arrêtais, le travail s’arrêtait. C’est pour ça que j’ai arrêté d’être seulement moi.
+3. J’ai créé Off Duty pour aider le plus d’entreprises possible.
+4. Elles avaient monté leur boîte pour être libres. L’opérationnel les avait reprises.
+5. *(expérimental)* Le freelance vend ses heures. Off Duty vend une boîte qui tourne sans lui.
 
 Variantes hook
-- A *(live)* : Ils ont monté leur boîte pour être libres. L’opérationnel les a repris.
-- B : Le problème, ce n’était pas l’IA. C’était que personne ne la mettait en production.
+- A *(live)* : Un an, j’étais le freelance. Off Duty existe pour aider plus qu’une personne.
+- B : J’ai créé Off Duty pour aider le plus d’entreprises possible.
 
 CTA
 **Réserver un appel**
 30 minutes. Vous repartez avec la roadmap — qu’on la construise ensemble, ou pas.
 
 Preuve utilisée
-Absente. L’histoire est un pattern de marché, pas un témoignage. Pas de chiffre.
+Une seule, dite par Gaël : un an en freelance, puis création d’Off Duty. Pas de chiffre de clients, pas de cas, pas de projet nommé.
 
 Test 5 secondes
-1. Pour qui ? Un dirigeant qui est encore le système de sa boîte.
-2. Quel résultat ? La boîte tourne quand il est off duty.
+1. Pour qui ? Quelqu’un qui veut savoir qui est derrière.
+2. Quel résultat ? Une boîte qui tourne sans dépendre d’une seule personne — la sienne, et la nôtre.
 3. Quoi faire ? Réserver un appel.
 
 ---
@@ -49,13 +46,11 @@ Test 5 secondes
 ## 1. Hero
 
 **H1**
-Ils ont monté leur boîte pour être libres.
-L’opérationnel les a repris.
+Un an, j’étais le freelance.
+Off Duty existe pour aider plus qu’une personne.
 
 **Sous-titre**
-Off Duty existe pour une raison. La boîte doit tourner quand le dirigeant n’est pas dans la pièce.
-
-Week-end. Vacances. Ou simplement occupé à autre chose que le copier-coller, les appels manqués, et le rattrapage du dimanche.
+Je m’appelle Gaël. J’ai passé un an à tout faire moi-même. Puis j’ai créé Off Duty pour aider le plus d’entreprises possible.
 
 **Bouton**
 Réserver un appel
@@ -66,64 +61,59 @@ Vous repartez avec la roadmap — qu’on la construise ensemble, ou pas.
 
 ---
 
-## 2. L’histoire
+## 2. La bio
 
-Il y a un moment que presque tous les dirigeants reconnaissent.
+Pendant un an, j’étais un simple freelance.
 
-La boîte tourne. Les clients sont là. Et pourtant, si eux s’arrêtent, tout s’arrête. Les relances. Les devis. Le téléphone. Le tableau qui n’est à jour que dans leur tête.
+Le brief. La construction. Les retours. La mise en ligne. Tout passait par moi. Le client appelait, c’était moi. Le truc cassait un vendredi, c’était moi.
 
-Ils ne sont pas en retard sur l’IA. Ils sont le système.
+J’aidais. Bien, souvent. Et j’avais un plafond que je ne pouvais pas négocier : si je m’arrêtais, le travail s’arrêtait.
 
-Alors le marché leur a vendu la sortie facile.
+Une personne a un nombre d’heures. Pas un nombre d’entreprises.
 
-Un webinaire. Un onglet ChatGPT. Un audit de vingt pages. Un logiciel « tout-en-un ». Parfois les quatre.
+En face, je voyais toujours la même scène.
 
-Trois mois plus tard, le même tableau. Les outils dorment. Les essais n’ont jamais quitté la phase de test. Personne dans l’équipe ne sait dire ce que ça rapporte.
+Une boîte qui a testé l’IA. Un onglet ouvert. Un webinaire suivi. Parfois un audit payé. Trois mois plus tard, les outils dorment. Personne ne sait ce que ça rapporte. L’équipe est revenue au copier-coller et aux appels manqués.
 
-Chaque appel manqué compose le suivant. L’équipe passe encore la moitié de la journée à copier-coller. Le dirigeant rattrape le dimanche ce qui n’a pas tourné dans la semaine.
+Ces dirigeants avaient monté leur entreprise pour être libres. L’opérationnel les avait repris. Ils étaient devenus le système. Moi, de l’autre côté de l’appel, j’étais en train de devenir le même piège : utile, et impossible à multiplier.
 
-Ce n’est pas un problème d’outil. C’est un problème de production.
+J’ai créé Off Duty pour sortir de ça. Des deux côtés.
 
-L’information ne change pas une semaine. Un cours ne répond pas au téléphone. Un slide ne relance pas un devis.
+Pour eux : que la boîte tourne quand ils sont off duty. Week-end, vacances, ou simplement occupés à autre chose que relancer, saisir, et rattraper le dimanche.
 
-Ce qui change la semaine, c’est un truc qui tourne — sur leurs outils, avec leurs données, ouvert par leur équipe.
+Pour moi : aider le plus d’entreprises possible. Pas en restant le freelance qui porte chaque projet sur son dos. En posant un déroulé qui se répète. Trouver la tâche qui coûte. La mettre en production en 7 jours. Former l’équipe. Passer à la suivante.
 
-C’est pour ça qu’Off Duty existe.
-
-On ne part pas de l’IA. On part de la tâche qui coûte. On la met en production en 7 jours. On forme les gens qui devront s’en servir. Puis on s’efface.
-
-Quand on s’efface, ce n’est plus un projet. C’est leur façon de travailler.
+Le freelance vend ses heures. Ça s’arrête quand il s’arrête.
+Off Duty vend un résultat qui continue. Le code est à vous. L’équipe sait s’en servir. Quand on s’efface, ce n’est plus notre projet. C’est votre façon de travailler.
 
 ---
 
-## 3. Pourquoi « off duty »
+## 3. Pourquoi ce nom
 
-Le nom n’est pas une blague.
+Off duty, c’est le résultat.
 
-Une entreprise saine doit pouvoir tourner quand son dirigeant est off duty.
+Pas le mien en slogan. Le vôtre.
 
-Pas parce qu’il se désintéresse. Parce qu’il a monté la boîte pour ne plus être l’unique moteur. Le jugement reste humain. Le répétitif, non.
-
-Off duty, c’est ce résultat. Pas un logo.
+Votre jugement reste. Le répétitif, non. Une entreprise saine tourne quand la personne qui l’a fondée n’est pas dans la pièce. J’ai vu ce que ça coûte quand ce n’est pas vrai — chez mes clients, et dans ma propre année de freelance.
 
 ---
 
-## 4. Comment on travaille
+## 4. Comment on aide, concrètement
 
-Une tâche. Pas dix.
+On ne parle pas « d’IA ». On parle de la tâche.
 
-On regarde le vrai travail — carnet, Excel, CRM, SMS. On garde une ou deux choses qui valent l’effort. On écarte le reste.
+Les appels qui sonnent dans le vide. Le copier-coller entre deux outils. Le ChatGPT que personne n’ouvre.
 
-On construit sur ce qu’ils ont déjà, ou on remplace ce qu’ils font encore à la main. Premier livrable en production sous 7 jours. Le code est à eux.
+On en garde une ou deux. On construit sur ce que vous avez déjà — carnet, Excel, CRM, SMS — ou on remplace ce que vous faites encore à la main. Premier livrable en production sous 7 jours.
 
-On forme sur leurs cas. Un outil que personne n’ouvre n’a rien résolu.
+Vous ne devenez pas dépendant de moi. C’est le contraire de l’année où tout passait par une personne. Vous gardez le code, l’accès, la doc. Sprint par sprint. Pas 12 mois avant d’avoir vu quelque chose tourner.
 
-Ensuite : le chantier suivant. Ou ils reprennent la main. L’accès, le code et la doc restent à eux dans tous les cas.
+Le premier appel dure 30 minutes. Vous repartez avec la roadmap : quoi automatiser, dans quel ordre, avec quoi.
 
-Le premier appel dure 30 minutes. Ils repartent avec la roadmap : quoi automatiser, dans quel ordre, avec quoi.
+Au mieux, on la construit avec vous.
+Au pire, vous la gardez. Pour la faire vous-même, ou la confier à qui vous voulez.
 
-Au mieux, on la construit avec eux.
-Au pire, ils la gardent. Pour la faire eux-mêmes, ou la confier à qui ils veulent.
+Aider le plus d’entreprises possible, ça commence par là. Un plan clair. Même pour celles qui ne signent pas.
 
 ---
 
@@ -131,9 +121,9 @@ Au pire, ils la gardent. Pour la faire eux-mêmes, ou la confier à qui ils veul
 
 On ne vend pas un audit qui finit dans un tiroir.
 On ne construit pas un outil que personne n’ouvrira.
-On ne vous engage pas sur 12 mois avant d’avoir prouvé quelque chose en une semaine.
+On ne vous forme pas à l’IA pour que vous vous débrouilliez seuls.
 On ne vous vend pas « plus de clients ». On fait tourner ce que vous avez déjà.
-On ne vous demande pas de devenir expert en IA.
+On ne vous demande pas d’être expert.
 
 Une petite équipe. Pas une usine.
 Chaque projet : un interlocuteur. Une équipe technique derrière.
@@ -144,9 +134,8 @@ Chaque projet : un interlocuteur. Une équipe technique derrière.
 
 ## 6. Clôture
 
-La liberté, ce n’est pas un outil de plus.
-
-C’est une boîte qui continue quand vous n’êtes pas là.
+J’ai passé un an à être le système de quelqu’un d’autre.
+Off Duty, c’est pour que vous n’ayez plus à l’être.
 
 **Réserver un appel**
 
@@ -155,27 +144,28 @@ C’est une boîte qui continue quand vous n’êtes pas là.
 Au mieux, on la construit avec vous.
 Au pire, vous la gardez. Pour la faire vous-même, ou la confier à qui vous voulez.
 
-**P.S.** Si votre équipe a déjà « essayé l’IA » et que vous êtes encore le système le dimanche soir, vous êtes exactement à l’endroit où cette boîte a commencé.
+**P.S.** Si votre boîte s’arrête quand vous vous arrêtez, je connais ce plafond. J’y ai vécu un an. C’est exactement pour ça que cet appel existe.
 
 ---
 
 # EN (toggle)
 
 **H1**
-They started the company to be free.
-The day-to-day took it back.
+For a year, I was the freelancer.
+Off Duty exists to help more than one person can.
 
 **Sub**
-Off Duty exists so the business runs when the founder isn’t in the room.
+I’m Gaël. I spent a year doing all of it myself. Then I started Off Duty to help as many companies as possible.
 
 **Story**
-The business works. And if they stop, it stops. The market sold them a webinar, a ChatGPT tab, an audit, a suite of software. Three months later the tools are asleep and nobody can say what they’re returning. The gap isn’t another tool. It’s someone who ships it into the actual week, trains the team, and steps back. That’s Off Duty. One costly task. Live in 7 days. The code is theirs.
+For a year, every brief, build, and fix went through me. If I stopped, the work stopped. One person has hours. Not a number of companies.
 
-**Why the name**
-A healthy company runs when its founder is off duty. Judgment stays human. The repeat work doesn’t.
+On the other side I kept seeing the same scene. A company that tried AI. A dead tab. An audit in a drawer. The founders had started the business to be free. Operations took it back. I was becoming the same trap: useful, and impossible to multiply.
 
-**We don’t**
-Sell an audit that dies in a drawer. Build a tool nobody opens. Lock you into 12 months before a week of proof. Promise you more customers. Ask you to become an AI expert.
+So I built Off Duty. For them: the company runs when they’re off duty. For me: help as many as possible, with one repeatable path. Find the task that costs. Ship it in 7 days. Train the team. The code is theirs. When we step back, it’s how they work.
+
+A freelancer sells hours. Those hours end when he does.
+Off Duty sells a result that keeps going.
 
 **CTA** Book a call
 30 minutes. You leave with a clear take — and a full implementation roadmap.
@@ -186,6 +176,5 @@ Worst case, you keep it. Run it yourself, or hand it to whoever you want.
 
 # Spec page
 
-Pas de photo-légende avec un chiffre. Pas de paragraphe « le fondateur a construit X » tant qu’un fait n’est pas vérifié et voulu.
-Hero : H1 + 3 phrases + un bouton.
-L’histoire = un seul récit. Pas une frise.
+Première personne pour la bio. « On » dès que c’est l’entreprise.
+Aucun chiffre à part « un an ». Aucun cas client. Aucun nom de projet.

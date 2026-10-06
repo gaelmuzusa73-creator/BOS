@@ -18,5 +18,5 @@ CTA recalé sur Accueil, Services, Méthode (FR + EN) : l’appel laisse une roa
 
 Audit / consulting écrit. H1 : « Vous repartez avec la roadmap. Pas avec un slide. » Même CTA. L’audit seul est prévu : ils gardent le plan. Livrable : `Output/Copy_audit-off-duty_2026-10-06.md`. Pas un 2e business. Goulot inchangé.
 
-À propos : histoire de marché (liberté reprise par l’opérationnel, outils qui dorment, production en 7 jours). Pas de bio. Livrable : `Output/Copy_apropos-off-duty_2026-10-06.md`.
+À propos réécrit en bio, sur les faits de Gaël seulement : un an freelance, Off Duty pour aider le plus d’entreprises possible. Livrable : `Output/Copy_apropos-off-duty_2026-10-06.md`.
 
