@@ -30,6 +30,18 @@ Absente. **Aucun chiffre, aucun cas, aucun “des centaines de clients”.** Les
 CTA unique partout
 **Réserver un appel** → Calendly / page Contact. Après le clic : 30 min visio, gratuit, sans engagement.
 
+Plan du site (figé — 8 pages)
+1. Accueil — hero, constat, trois gestes, pattern douleurs → correctifs, clôture
+2. Services — outils métiers, automatisations, agents IA
+3. Méthode — les six étapes
+4. Audit IA — offre d’entrée, avant/après, déroulé
+5. À propos — histoire, pourquoi « off duty », ce qu’on ne fait pas
+6. FAQ — questions par thème
+7. Cas d’usage par secteur — les douze secteurs
+8. Contact — le formulaire
+
+Hors site : Formations, Blueprint.
+
 Test 5 secondes (Accueil)
 1. Pour qui ? Une boîte qui veut automatiser, pas un geek.
 2. Quel résultat ? La boîte tourne. Le dirigeant reste off duty.
@@ -543,11 +555,11 @@ Pas de champ budget tant que le prix n’est pas fixé.
 
 **Marque** Off Duty
 
-**Nav (lancement)**
-Accueil · Méthode · Services · Audit · Secteurs · À propos · FAQ  
+**Nav (figée — 8 pages, dans cet ordre)**
+Accueil · Services · Méthode · Audit · À propos · FAQ · Secteurs · Contact  
 **Bouton** Réserver un appel
 
-**Cacher en nav au lancement :** Formations · Blueprint
+**Hors site :** Formations · Blueprint
 
 **Toggle** FR | EN  
 Deux contenus rédigés, pas de traduction auto en live.
