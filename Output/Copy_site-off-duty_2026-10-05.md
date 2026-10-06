@@ -116,7 +116,7 @@ Coller ici : qui tu es, 3 faits vérifiables, un métier que tu as réellement s
 
 # PAGE 6 — À propos `/a-propos`
 
-Source live : `Output/Copy_apropos-off-duty_2026-10-06.md`. Bio Gaël : un an freelance, Off Duty pour aider le plus d’entreprises possible. Pas d’autre fait.
+Source live : `Output/Copy_apropos-off-duty_2026-10-06.md`. Voix entreprise. « Notre fondateur, Gaël Muzusa. » Créé pour aider le plus d’entreprises possible. Pas de « je ». Pas d’année freelance.
 
 ---
 

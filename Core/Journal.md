@@ -20,3 +20,5 @@ Audit / consulting écrit. H1 : « Vous repartez avec la roadmap. Pas avec un sl
 
 À propos réécrit en bio, sur les faits de Gaël seulement : un an freelance, Off Duty pour aider le plus d’entreprises possible. Livrable : `Output/Copy_apropos-off-duty_2026-10-06.md`.
 
+À propos repris : plus un CV. Voix « notre fondateur, Gaël Muzusa ». Le dirigeant est le sujet. L’année freelance est sortie du texte.
+
