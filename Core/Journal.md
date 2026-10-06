@@ -28,3 +28,5 @@ FAQ réécrite pour briser les objections dans les mots du dirigeant. Livrable :
 
 Secteurs : 12 ICP détaillés (qui, phrase, résultat, ce qui reste humain). Pas de cas inventé. La page est un menu. L’outbound reste UN métier. Livrable : `Output/Copy_secteurs-off-duty_2026-10-06.md`.
 
+Contact : page courte, calquée sur « Tell us where you’re at ». Pas de budget, pas de CA. Calendrier = la page. Livrable : `Output/Copy_contact-off-duty_2026-10-06.md`. Les 8 pages du site sont écrites.
+
