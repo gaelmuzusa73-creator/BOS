@@ -59,7 +59,17 @@ Dire la big idea en **une phrase**. Test avant d'écrire : est-elle urgente pour
 
 ### Phase 3 — Choisir la pièce
 
-Une pièce par session.
+Une pièce par session. Si un skill plus précis porte déjà ce format, on l'enchaîne et on ne réécrit pas ici :
+
+- Homepage ou site froid → `page`
+- Page de vente longue, offre irrésistible, test → `direct`
+- Pub ou script court → `creative`
+- Idée pas encore choisie → `bigidea` puis retour
+- Première pièce de quelqu'un qui n'a jamais écrit pour vendre → `foundation` puis retour
+- On part d'une pièce qui a déjà fait de l'argent → `cashcopy`
+- Objet et première ligne d'email → `readmail`
+
+Sinon :
 
 | Pièce | Structure |
 |-------|-----------|

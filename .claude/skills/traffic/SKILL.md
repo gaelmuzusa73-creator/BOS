@@ -93,12 +93,7 @@ Appliquer les best practices du canal choisi. Ci-dessous : méthodologie complè
 
 #### Si le canal = Ads
 
-- Structure de campagne (objectif, audiences, créatives, variantes).
-- Ciblage large d'abord si la plateforme optimise mieux que le ciblage manuel. L'angle fait le travail, pas 40 intérêts empilés.
-- Créa : images statiques pour tester plusieurs angles vite. Hook = fait, tension ou symptôme, pas une affiche de marque.
-- Allocation budget (test vs scale, règles de couper/scale).
-- Cadre de test créatif (hypothèse → variation → KPI → décision). On juge au coût par lead ou au retour, pas au nombre de likes.
-- Les mots de la créa et de la page passent par `copy`. Lire `Knowledge/Acquisition_Sources.md` (Suby, Hormozi) avant de proposer un angle.
+Enchaîner sur `creative` pour l'angle et la pièce. Si la page de vente n'existe pas, `direct`. Ici, seulement le cadre : ciblage large d'abord, images statiques pour tester vite, budget test vs scale, on juge au coût par lead ou au retour.
 
 #### Si le canal = Email froid
 
@@ -106,9 +101,7 @@ Ne pas développer la méthode ici. Enchaîner immédiatement sur `coldmail` : n
 
 #### Si le canal = SEO
 
-- Recherche mots-clés (intention, difficulté, quick wins).
-- Plan éditorial aligné offre.
-- Bases techniques (indexation, structure Hn, maillage interne — proportionné au niveau).
+Enchaîner sur `seo`. Une intention, une page, la conversion dans la page. Pas de plan de 30 articles ici.
 
 #### Autres canaux (influenceurs, affiliés, agence)
 

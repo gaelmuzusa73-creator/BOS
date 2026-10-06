@@ -70,6 +70,7 @@ Avant de chercher de nouveaux yeux : une liste d'inscrits, de leads ou de client
 
 Sinon :
 - **Pas assez**, et l'acheteur est un métier listable (société, rôle, zone) sans autre canal déjà en test → problème = TRAFIC EMAIL FROID → route vers `coldmail`
+- **Pas assez**, et le canal évident est Google (intention de recherche ou fiche locale) sans autre canal en test → `seo`
 - **Pas assez**, autre cas → problème = TRAFIC → route vers `traffic`
 
 **Q2 — Offre : basée sur un modèle prouvé ?**
@@ -77,7 +78,11 @@ L'offre est-elle calquée sur quelque chose qui convertit déjà ? Customer rese
 - **Non** → problème = OFFRE → route vers `offer`
 
 **Q2b — Les mots.** L'offre est dicible, des gens la voient, mais la page, la pub ou le message est vague, clever, ou sans preuve.
-- **Oui** → problème = MESSAGE → route vers `copy`
+- Homepage ou site froid → `page`
+- Page de vente ou pub + page → `direct`
+- Pub seule → `creative`
+- L'idée de campagne n'est pas choisie → `bigidea`
+- Autre message → `copy`
 
 **Q3 — Trafic + offre OK mais pas de ventes ?**
 Assez de trafic qualifié ET offre structurée sur modèle solide, mais conversion cassée ?
@@ -197,7 +202,9 @@ Signes : qualité baisse, churn monte, chaos opérationnel, fondateur fait tout,
 | `Core/Actions.md` | Actions alignées sur 1 goulot |
 | `Core/Journal.md` | Append session |
 
-**Routing transparent** vers : `find`, `traffic`, `coldmail`, `email`, `copy`, `offer`, `funnel`, `mindset`, `chase`, ou `digestion`.
+**Routing transparent** vers : `find`, `market`, `traffic`, `seo`, `coldmail`, `email`, `readmail`, `copy`, `page`, `direct`, `creative`, `bigidea`, `cashcopy`, `foundation`, `growth`, `offer`, `funnel`, `mindset`, `chase`, ou `digestion`.
+
+`market` se déclenche en Find, ou avant un canal, quand la niche n'a aucun ordre de grandeur. `growth` se déclenche quand le flux existe mais on optimise le mauvais bout (corps au lieu du hook, qualité au lieu du volume, scale sans LTV/CAC). `foundation` une seule fois, si personne n'a jamais écrit pour vendre. `cashcopy` quand une pièce gagnante sert de modèle. `readmail` est appelé par `email` et `coldmail`, pas comme goulot séparé.
 
 **Template Diagnosis.md :**
 

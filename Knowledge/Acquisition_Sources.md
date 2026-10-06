@@ -176,7 +176,7 @@ Email **froid** : la personne ne vous connaît pas. Distinct de l'email de liste
 
 Panorama. La chaîne autour confirme des pièces déjà couvertes ailleurs : offre irrésistible, CRO avant d'acheter plus de trafic, mesure de marché (PAM, TAM, SAM, SOM), SEO face aux réponses des IA.
 
-**Retenu :** on ne lance pas un canal tant que l'offre n'est pas dicible et que la page ne convertit pas le peu de trafic déjà là. Le tutoriel ne devient pas un treizième skill. Il renvoie vers offre, copy, trafic, funnel.
+**Retenu :** on ne lance pas un canal tant que l'offre n'est pas dicible et que la page ne convertit pas le peu de trafic déjà là. Exécuté par `market` (chiffres), puis `offer`, `page` ou `traffic`. Pas de chantier séparé « visibilité dans les IA » tant que la page est vague.
 
 ---
 

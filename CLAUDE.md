@@ -99,10 +99,20 @@ Ne clôturer que si l'entrepreneur dit qu'il doit partir OU qu'il ne reste que d
 
 Quand BOS détecte qu'un skill spécialisé est nécessaire, il lance `diagnosis` pour identifier la phase et le sous-problème, puis active le bon skill de manière transparente :
 - `find` — pas de business, doute, pivot
+- `market` — la niche n'a aucun ordre de grandeur, ou on veut un canal avant d'avoir mesuré
 - `traffic` — pas assez de gens voient l'offre
+- `seo` — le canal est Google (recherche ou fiche locale)
 - `coldmail` — le canal retenu est l'email à des inconnus qualifiés (B2B listable)
 - `email` — une liste existe déjà et ne reçoit rien d'utile, ou les nouveaux leads ne sont pas recontactés
-- `copy` — l'offre est claire mais les mots (page, pub, message) ne font pas agir
+- `readmail` — l'email existe, il n'est pas ouvert ; objet, aperçu, première ligne
+- `growth` — le flux existe mais on optimise le mauvais bout, ou on scale sans LTV/CAC
+- `copy` — l'offre est claire mais les mots ne font pas agir
+- `foundation` — première pièce de copy, le socle n'existe pas
+- `bigidea` — la campagne n'a pas encore une seule idée
+- `page` — le site ou la homepage ne convertit pas le trafic froid
+- `direct` — page de vente, offre qu'on ne refuse pas, test
+- `creative` — pub ou script court
+- `cashcopy` — démonter une pièce qui a déjà fait de l'argent, réécrire sans copier
 - `offer` — l'offre n'est pas convaincante
 - `funnel` — trafic + offre OK mais la conversion casse
 - `mindset` — l'entrepreneur EST le bottleneck (toutes phases)
@@ -206,10 +216,20 @@ Le flow de session quotidien (scan → check-in → mise à jour → proposer �
 - **find/SKILL.md** — Choisir le bon business / valider / décision de pivot.
 
 **Phase 2 — PMF** (business existe, pas de revenue consistant) :
-- **traffic/SKILL.md** — Pas assez de gens voient l'offre. 7 canaux (ads, contenu, SEO, influenceurs, affiliés, agence, email froid) — en choisir UN. L'email froid s'exécute via `coldmail`.
-- **coldmail/SKILL.md** — Email à des inconnus qualifiés. 3 piliers (infra, liste, offre + copy), séquence courte.
-- **email/SKILL.md** — Liste déjà possédée. Cadence, segmentation, 5 prochains envois.
-- **copy/SKILL.md** — Les mots qui font agir (page, pub, message). Appelé dès qu'une pièce doit être écrite.
+- **market/SKILL.md** — Ordres de grandeur du marché (PAM, TAM, SAM, SOM) et CRO avant plus de trafic.
+- **traffic/SKILL.md** — Pas assez de gens voient l'offre. 7 canaux — en choisir UN. L'email froid s'exécute via `coldmail`. Le SEO via `seo`. La pub via `creative`.
+- **seo/SKILL.md** — Une intention Google ou une fiche locale. Page qui convertit incluse.
+- **coldmail/SKILL.md** — Email à des inconnus qualifiés. 3 piliers, séquence courte. L'objet passe par `readmail`.
+- **email/SKILL.md** — Liste déjà possédée. Cadence, 5 prochains envois.
+- **readmail/SKILL.md** — Objet, aperçu, première ligne. Faire lire.
+- **growth/SKILL.md** — Flux, volume, hook, LTV/CAC, contrainte.
+- **copy/SKILL.md** — Pièce à écrire quand aucun format spécialisé ne s'impose. Délègue à `page`, `direct`, `creative`, `bigidea`, `foundation`, `cashcopy`, `readmail`.
+- **foundation/SKILL.md** — Socle de la première pièce : persona, bénéfice, AIDA.
+- **bigidea/SKILL.md** — Une idée, un type, un stade de conscience, avant les mots.
+- **page/SKILL.md** — Site froid : offre, structure, copy.
+- **direct/SKILL.md** — Recherche, offre irrésistible, page de vente, test.
+- **creative/SKILL.md** — Recherche, angle, brief, pub.
+- **cashcopy/SKILL.md** — Démonter une pièce gagnante, réécrire sans copier.
 - **offer/SKILL.md** — L'offre n'est pas convaincante. Customer research, 3 Descriptions, 4 Leviers, Grand Slam Offer.
 - **funnel/SKILL.md** — Trafic + offre OK mais la conversion casse. Mapper, données, benchmarks, optimiser.
 
