@@ -7,7 +7,8 @@
 - **Données :** revenue inconnu/absent · clients payants Off Duty : 0 · canal : aucun en live · conversion : N/A · preuve publique : 0 · pricing : non fixé · Profile/Goal : vides
 - **Justification :** matrice PMF — le copy est prêt, l’offre a un mécanisme (7 jours, code au client). Personne ne la voit. En B2B/service/premier client, le volume se fait par des conversations, pas par une 4e passe de texte ni un 12e secteur. Le pattern des derniers cycles = travail fake (#2 apprendre sans exécuter, #5 procrastination productive, #11 objet brillant). Gatari a raison sur la **séquence** (marché → mots du résultat → test → réécriture). Il a tort comme **pivot** : Off Duty n’est pas une agence d’acquisition clients.
 - **Mindset (Phase 0) :** objet brillant + travail fake. Protocole actif : 1 confrontation marché / 24h, interdiction de nouveau contenu/skill tant que 1 message n’est pas parti.
-- **Prochaine validation (7j) :** ≥ 5 messages envoyés, ≥ 1 réponse réelle. Pas une page de plus.
+- **Prochaine validation (7j) :** ≥ 5 messages envoyés, ≥ 1 réponse réelle. Accueil + Services sont écrits — ça ne change pas le goulot.
+- **Note 2026-10-06 :** il demande le copy page par page (consigne tenue). On livre la page. On ne fait pas semblant que le site est le levier.
 
 ## Ancien goulot (historique)
 « Site pas en ligne / copy pas calé » — résolu côté texte (`Output/Copy_site-off-duty_2026-10-05.md`). Rester collé là = résoudre le problème confortable.

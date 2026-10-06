@@ -118,62 +118,7 @@ Ni un projet IT de six mois. Ni un SaaS qui vous enferme.
 
 # PAGE 3 — Services `/services`
 
-**H1**
-Votre opérationnel, en pilote automatique.
-
-**Sous-titre**
-Des outils d’automatisation construits pour votre boîte. Pas un abonnement de plus que personne n’ouvre.
-
-**CTA** Réserver un appel
-
-## Constat
-
-Vous ne savez pas par où commencer.
-Vous n’avez pas le temps de creuser l’IA.
-ChatGPT, chez vous, n’a rien changé.
-
-Off Duty s’occupe du diagnostic, de la construction, et de la formation de votre équipe.
-
-## 01 — Outils métier
-
-Pensés pour votre activité. Branchés sur ce que vous utilisez déjà — ou pour remplacer le carnet, l’Excel, les post-it.
-
-Exemples : mini-app métier, suivi de chantier ou de dossier, tableau de bord dirigeant, base sur mesure.
-
-## 02 — Automatisations qui tournent seules
-
-Ce qui se répète chaque semaine — devis, relances, saisie, reporting — se fait sans que personne y touche.
-
-Exemples : facturation, relances clients, sync de stock, extraction de documents.
-
-## 03 — Agents IA dans le quotidien
-
-Branchés sur vos e-mails, vos appels, vos dossiers. Pas un chatbot générique.
-
-Exemples : réponses e-mail, prise de notes d’appel, génération de documents, tri.
-
-## Secteurs
-
-Artisans, BTP, commerce, prestation, immobilier, finance, RH — même si le métier n’est « pas digital ».
-
-Lien : voir les cas par secteur → `/secteurs`
-
-## Réassurance (puces, pas de jargon)
-
-- Pas besoin d’être expert en IA
-- On s’intègre à vos outils et à votre équipe
-- Le code est à vous
-
-## Preuve ⏳
-
-**Cacher.** Même règle que l’accueil.
-
-## Clôture
-
-Un échange de 30 minutes pour savoir ce qui vaut la peine d’être automatisé chez vous.
-
-**CTA** Réserver un appel  
-**Sous-bouton** Gratuit. Sans engagement.
+Source live : `Output/Copy_services-off-duty_2026-10-06.md`. Ne pas republier l’ancienne version courte.
 
 ---
 

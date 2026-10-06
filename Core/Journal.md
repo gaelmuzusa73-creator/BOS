@@ -10,3 +10,5 @@ Sitemap Off Duty figé à 8 pages, dans l’ordre de Gaël : Accueil, Services, 
 
 Accueil réécrit en PAISA (fold 5 secondes, 3 conséquences, 3 alternatives invalidées, risque inversé, un CTA). Livrable : `Output/Copy_accueil-off-duty_2026-10-06.md` + carte funnel. Pas de preuve inventée.
 
+Services réécrit (AIDA + mécanisme, 3 livrables en résultat pas en catalogue IA). Gatari : on ne vend pas « des clients ». Ottley : done-for-you productisé, ils n’apprennent pas l’IA. Livrable : `Output/Copy_services-off-duty_2026-10-06.md`. Goulot inchangé : une conversation.
+
