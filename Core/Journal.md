@@ -16,3 +16,5 @@ Méthode réécrite (6 étapes productisées, 3 peurs traitées, risque inversé
 
 CTA recalé sur Accueil, Services, Méthode (FR + EN) : l’appel laisse une roadmap d’implémentation, qu’on la construise ensemble ou pas.
 
+Audit / consulting écrit. H1 : « Vous repartez avec la roadmap. Pas avec un slide. » Même CTA. L’audit seul est prévu : ils gardent le plan. Livrable : `Output/Copy_audit-off-duty_2026-10-06.md`. Pas un 2e business. Goulot inchangé.
+

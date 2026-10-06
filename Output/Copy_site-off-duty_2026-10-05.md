@@ -75,48 +75,7 @@ Source live : `Output/Copy_services-off-duty_2026-10-06.md`. Ne pas republier l�
 
 # PAGE 4 — L’audit IA `/audit`
 
-**H1**
-Où votre entreprise perd du temps, de l’argent, et de l’énergie.
-
-**Sous-titre**
-Vous repartez avec ce qui doit rester humain, ce qui peut tourner tout seul, et par quoi commencer.
-
-**CTA** Demander un audit
-
-## Ce que vous en retirez
-
-- Les tâches qui bloquent la croissance
-- La frontière humain / IA, sans dogme
-- Une feuille de route calée sur *vos* moyens
-
-## Avant / après
-
-| Avant | Après |
-|---|---|
-| Vous sentez que le temps fuit. Vous ne savez pas où. | Cartographie claire des process et des frictions |
-| « Il faudrait faire de l’IA » — sans point d’entrée | Vous savez quoi automatiser, avec quoi, pour quel type de gain |
-| Des bricolages qui n’ont pas tenu | Une feuille de route priorisée |
-
-## Déroulé
-
-1. **Entretien** — votre secteur, vos enjeux, vos objectifs
-2. **Analyse à distance** — visio + partage d’écran, avec vous et l’équipe
-3. **Cartographie** — ce qui est automatisable, outils possibles, ordre
-4. **Passage à l’action** — feuille de route, priorité par priorité  
-   Lien interne : `/methode`
-
-## Vous avez le dernier mot
-
-Le rendu vous va ? On continue.
-Il ne convainc pas ? On s’arrête. Aucun engagement.
-
-Un audit seul, sans construire ensuite, c’est possible.
-
-## Réassurance
-
-Pas besoin d’être expert. Tous secteurs. Sans engagement à la sortie.
-
-**CTA** Demander un audit
+Source live : `Output/Copy_audit-off-duty_2026-10-06.md`. Bouton = Réserver un appel. Pas « Demander un audit ».
 
 ---
 

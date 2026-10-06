@@ -14,7 +14,7 @@ Dirigeant de TPE/PME (artisan, cabinet, commerce, multi-équipes) qui a déjà t
 1. Outils métier sur mesure  
 2. Automatisations (devis, relances, saisie, reporting…)  
 3. Agents IA branchés e-mail / appels / dossiers  
-4. Audit IA (peut rester standalone)  
+4. Audit / consulting — roadmap d’implémentation en 30 min. Standalone possible (ils gardent le plan). Même CTA que le site.  
 5. Formations/ateliers — **piste secondaire, pas l’offre #1**  
 6. Blueprint IA — **non publiable tant que l’outil n’existe pas**
 
@@ -38,6 +38,7 @@ Hors site : Formations, Blueprint.
 - Copy Accueil (live) : `Output/Copy_accueil-off-duty_2026-10-06.md`
 - Copy Services (live) : `Output/Copy_services-off-duty_2026-10-06.md`
 - Copy Méthode (live) : `Output/Copy_methode-off-duty_2026-10-06.md`
+- Copy Audit (live) : `Output/Copy_audit-off-duty_2026-10-06.md`
 - Copy site (autres pages) : `Output/Copy_site-off-duty_2026-10-05.md`
 - Funnel Accueil : `Output/Funnel_Audit_2026-10-06.md`
 
