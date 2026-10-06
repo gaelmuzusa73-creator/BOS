@@ -19,15 +19,15 @@ Voix du client
   5. « On a essayé ChatGPT, personne ne l’a jamais vraiment utilisé. »
 
 Hooks (5)
-1. Votre partenaire de croissance. *(titre)*
-2. On ne parle pas d’IA. On la met dans la semaine.
+1. On ne fait pas que parler d’IA. On la livre. *(titre, calque Morningside)*
+2. Votre partenaire de croissance.
 3. On automatise votre boîte. Vous restez off duty.
 4. Vous ne payez pas un essai. Vous payez ce qui libère de la capacité.
 5. *(expérimental)* La croissance bloque là où vous êtes encore le système.
 
 Variantes hook
-- A *(live)* : Votre partenaire de croissance.
-- B : On automatise votre boîte. Vous restez off duty.
+- A *(live)* : On ne fait pas que parler d’IA. On la livre.
+- B : Votre partenaire de croissance.
 
 CTA
 **Réserver un appel**
@@ -45,6 +45,10 @@ Test 5 secondes
 ## Hero
 
 **H1**
+On ne fait pas que parler d’IA.
+On la livre.
+
+**Ligne**
 Votre partenaire de croissance.
 
 **Sous-titre**
@@ -140,7 +144,8 @@ Au pire, vous la gardez. Pour la faire vous-même, ou la confier à qui vous vou
 
 ## EN
 
-**H1** Your growth partner.
+**H1** We don't just talk AI. We deliver it.
+**Line** Your growth partner.
 **Sub** We automate your business. You stay off duty.
 We find what’s worth building. We ship it. We train your team until it’s just how work gets done.
 You don’t pay for a trial. You pay for capacity — so the company can grow without you in the middle.

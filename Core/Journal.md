@@ -32,3 +32,5 @@ Contact : page courte, calquée sur « Tell us where you’re at ». Pas de budg
 
 Gaël veut le modèle Gatari. Hypothèse écrite, pas pivot du site : bâtiment, demandes → rendez-vous en moins de 3 minutes, 2 500 € d’avance, pas de promesse de volume. Livrable : `Output/Product_Acquisition_2026-10-06.md`. Prochaine action : un message.
 
+Analyse morningside.ai : partenaire de livraison (identifier, construire, adopter), pas agence d’acquisition. H1 Accueil calé sur « On ne fait pas que parler d’IA. On la livre. » Pas de compteurs inventés.
+

@@ -44,7 +44,7 @@ Dirigeant de TPE/PME (artisan, cabinet, commerce, multi-équipes) qui a déjà t
 Hors site : Formations, Blueprint.
 
 ## Marketing
-- Message actuel : Votre partenaire de croissance. On automatise votre boîte. Vous restez off duty.
+- Message actuel : On ne fait pas que parler d’IA. On la livre. Partenaire de croissance. On automatise votre boîte. Vous restez off duty.
 - Copy Contact (live) : `Output/Copy_contact-off-duty_2026-10-06.md` — H1 « Dites-nous où vous en êtes. » Calendrier d’abord. Pas de budget.
 - Copy FAQ : `Output/Copy_faq-off-duty_2026-10-06.md`
 - Copy Secteurs (live) : `Output/Copy_secteurs-off-duty_2026-10-06.md` — 12 ICP (qui, phrase, résultat, ce qui reste humain). Menu, pas 12 offres.

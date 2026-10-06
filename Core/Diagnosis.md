@@ -9,7 +9,8 @@
 - **Mindset (Phase 0) :** objet brillant + travail fake. Protocole actif : 1 confrontation marché / 24h, interdiction de nouveau contenu/skill tant que 1 message n’est pas parti.
 - **Prochaine validation (7j) :** ≥ 5 messages envoyés, ≥ 1 réponse réelle. Accueil + Services sont écrits — ça ne change pas le goulot.
 - **Note 2026-10-06 :** copy repris en « partenaire de croissance ». Capacité, pas acquisition de clients. Page Secteurs = menu. Les 8 pages sont écrites, Contact inclus. L’outbound reste UN métier. Goulot inchangé : une conversation.
-- **Note modèle Gatari :** Gaël veut ce business model. On le prend comme hypothèse, une niche (bâtiment), avance 2 500 €, système qu’il peut livrer. On ne promet pas les pubs ni 10 € l’appel. On ne réécrit pas le site avant 5 réponses. Le goulot reste le premier message.
+- **Note modèle Gatari :** hypothèse écrite (bâtiment, 2 500 €). Le site ne la porte pas.
+- **Note Morningside (6 oct.) :** Gaël croit que morningside.ai se vend comme Gatari. Faux. Morningside vend identifier → construire → faire adopter, jusqu’à ce que ce soit le travail. Gatari vend un système qui ramène des clients. Le site Off Duty reste sur Morningside. H1 accueil : « On ne fait pas que parler d’IA. On la livre. » Pas de stats copiées. Goulot inchangé : une conversation.
 - **Chase :** refusé comme plan 90j. Palier traction 0. Extrait utile : un seul format de consulting (l’audit = la roadmap), pas un deuxième business à scaler.
 
 ## Ancien goulot (historique)
