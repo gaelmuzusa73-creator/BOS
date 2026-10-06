@@ -35,7 +35,9 @@ Hors site : Formations, Blueprint.
 - Mots clients : outils qui dorment · personne ne l’a utilisé · copier-coller · on rate des appels · on ne sait pas ce que ça rapporte
 - Preuves : **aucune publique** — ne pas inventer
 - Canal prévu : site + appel (Calendly)
-- Copy source : `Output/Copy_site-off-duty_2026-10-05.md`
+- Copy Accueil (live) : `Output/Copy_accueil-off-duty_2026-10-06.md`
+- Copy site (autres pages) : `Output/Copy_site-off-duty_2026-10-05.md`
+- Funnel Accueil : `Output/Funnel_Audit_2026-10-06.md`
 
 ## Marché
 US, Europe, ailleurs — 100 % remote.

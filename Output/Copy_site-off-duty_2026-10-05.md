@@ -51,108 +51,13 @@ Test 5 secondes (Accueil)
 
 # PAGE 1 — Accueil `/`
 
-## Fold (5 secondes)
-
-**H1**
-On automatise votre boîte.
-Vous restez off duty.
-
-**Sous-titre**
-On trouve ce qui vaut vraiment l’effort. On le construit. On forme votre équipe à s’en servir.
-Vous ne payez pas un essai. Vous payez un outil qui tourne.
-
-**CTA**
-Réserver un appel
-
-**Micro-ligne sous le bouton**
-30 minutes. Gratuit. Sans engagement.
-
-## Le constat
-
-Vous avez testé des outils d’IA. Vous avez suivi des webinaires.
-
-Quelques mois plus tard : les outils dorment, les essais n’ont jamais quitté la phase de test, et personne ne sait dire ce que ça rapporte.
-
-Vous n’êtes pas en retard.
-
-Ce qui manque, ce n’est pas un outil de plus. C’est quelqu’un qui le met en production.
-
-C’est pour ça qu’on a créé Off Duty.
-
-## Trois gestes
-
-**On trouve.**
-On regarde comment votre équipe travaille vraiment — où le temps part, ce qui ralentit, ce qui s’empile. On garde une ou deux tâches qui valent l’effort. On écarte le reste.
-
-**On construit.**
-On avance sur vos outils actuels — ou on remplace ce que vous faites encore à la main. Un livrable en production à chaque sprint de 7 jours.
-
-**On ancre.**
-On forme votre équipe sur *son* outil et *ses* données. On ajuste après usage. Quand on s’efface, ce n’est plus un projet. C’est votre façon de travailler.
-
-## Le pattern
-
-| Ils disent | On livre |
-|---|---|
-| « On rate des appels toute la journée. Chaque appel manqué compose le suivant. » | Un agent vocal répond dès la première sonnerie, 24/7, prend rendez-vous, envoie l’urgent à un humain. |
-| « Mon équipe passe la moitié de sa journée en copier-coller entre outils. » | Les tâches répétitives tournent seules, en arrière-plan. |
-| « On a essayé ChatGPT. Personne ne l’a jamais vraiment utilisé. » | Un outil calé sur *votre* façon de travailler. Pas un chatbot générique. |
-
-## Preuve ⏳
-
-**Ne pas publier ce bloc.**
-À coller le jour où tu as un cas réel + un chiffre vérifiable (temps gagné, appels rattrapés, relances envoyées). Pas avant.
-
-Gabarit (à remplir plus tard, pas maintenant) :
-> [Entreprise], [secteur]. Avant : [douleur en une phrase]. Après : [chiffre]. En [X] jours.
-
-## Clôture
-
-L’IA est déjà dans votre secteur.
-
-Ceux qui prennent de l’avance, ce ne sont pas ceux qui la testent. Ce sont ceux qui la mettent en production.
-
-**CTA** Réserver un appel
-
-## FAQ courte (3 questions — le reste sur `/faq`)
-
-**Vous n’êtes pas une agence de plus qui vend un audit ?**
-Non. On identifie la tâche qui coûte le plus cher, on la construit en une semaine, et rien n’est fini tant que votre équipe ne s’en sert pas.
-
-**Ça marche si on n’est pas digital ?**
-Oui. CRM, carnet, SMS, Excel — on part de ce que vous avez.
-
-**Je suis engagé combien de temps ?**
-Sprint par sprint. Le code est à vous dans tous les cas.
+Source live : `Output/Copy_accueil-off-duty_2026-10-06.md` (PAISA + funnel). Ne pas republier l’ancienne version courte.
 
 ---
 
-# PAGE 1b — Accueil EN `/en` (ou toggle)
+# PAGE 1b — Accueil EN
 
-**H1**
-We automate your business.
-You stay off duty.
-
-**Sub**
-We find what’s actually worth automating. We build it. We train your team to run it.
-You don’t pay for a trial. You pay for something that runs.
-
-**CTA** Book a call  
-**Under** 30 minutes. Free. No commitment.
-
-**Reality**
-You’ve tried AI tools. Sat through webinars. A few months later the tools gather dust and nobody can say what they’re returning. You’re not behind. What’s missing is someone who ships it. That’s why Off Duty exists.
-
-**Three moves**
-We find it — map how the team really works, keep one or two tasks that pay, cut the rest.  
-We build it — live in production every 7-day sprint, on the tools you already use (code on your GitHub).  
-We make it stick — train your team on their own tool and data, then tune after real use.
-
-**Close**
-AI is already in your industry. The ones pulling ahead put it into production.  
-**CTA** Book a call
-
-*(Même règle preuve : pas de chiffre tant que tu n’en as pas. Ne pas traduire un faux cas.)*
+Source live : même fichier, section « Accueil EN (toggle) ».
 
 ---
 

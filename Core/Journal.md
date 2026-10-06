@@ -8,3 +8,5 @@ Re-diagnostic : le goulot n’est plus le copy. Pattern travail fake + objet bri
 ## 2026-10-06
 Sitemap Off Duty figé à 8 pages, dans l’ordre de Gaël : Accueil, Services, Méthode, Audit IA, À propos, FAQ, Secteurs, Contact. Formations et Blueprint hors site. En attente de sa première consigne.
 
+Accueil réécrit en PAISA (fold 5 secondes, 3 conséquences, 3 alternatives invalidées, risque inversé, un CTA). Livrable : `Output/Copy_accueil-off-duty_2026-10-06.md` + carte funnel. Pas de preuve inventée.
+
