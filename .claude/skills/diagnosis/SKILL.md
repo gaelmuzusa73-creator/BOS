@@ -64,11 +64,25 @@ Arbre de décision, appliquer **dans l'ordre**. Stop à la première dimension q
 
 **Q1 — Volume : combien de gens voient l'offre ?**
 Comparer au volume nécessaire (taux de conversion standard). Dizaines de contacts ne prouvent rien — il faut des centaines.
-- **Pas assez** → problème = TRAFIC → route vers `traffic`
+
+Avant de chercher de nouveaux yeux : une liste d'inscrits, de leads ou de clients existe-t-elle, et le dernier message utile a-t-il plus de 14 jours — ou un lead nouveau n'est-il pas recontacté le jour même ?
+- **Oui** → ces gens ont déjà levé la main. Problème = LISTE → route vers `email`. On n'achète pas de nouveau trafic pour ignorer celui qu'on a.
+
+Sinon :
+- **Pas assez**, et l'acheteur est un métier listable (société, rôle, zone) sans autre canal déjà en test → problème = TRAFIC EMAIL FROID → route vers `coldmail`
+- **Pas assez**, et le canal évident est Google (intention de recherche ou fiche locale) sans autre canal en test → `seo`
+- **Pas assez**, autre cas → problème = TRAFIC → route vers `traffic`
 
 **Q2 — Offre : basée sur un modèle prouvé ?**
 L'offre est-elle calquée sur quelque chose qui convertit déjà ? Customer research faite ? Désirs clients compris ?
 - **Non** → problème = OFFRE → route vers `offer`
+
+**Q2b — Les mots.** L'offre est dicible, des gens la voient, mais la page, la pub ou le message est vague, clever, ou sans preuve.
+- Homepage ou site froid → `page`
+- Page de vente ou pub + page → `direct`
+- Pub seule → `creative`
+- L'idée de campagne n'est pas choisie → `bigidea`
+- Autre message → `copy`
 
 **Q3 — Trafic + offre OK mais pas de ventes ?**
 Assez de trafic qualifié ET offre structurée sur modèle solide, mais conversion cassée ?
@@ -94,8 +108,10 @@ TRAFIC (personne ne la voit)
   → Canal pas optimisé
   → Pas assez de volume (20 contacts ≠ assez, il en faut 200)
   → Pas d'effort outbound
+  → Liste déjà là, jamais relancée (email)
 
 CONVERSION (ils voient mais n'achètent pas)
+  → Message vague ou clever (copy)
   → Process vente cassé
   → Déficit confiance
   → Objections non traitées
@@ -186,7 +202,9 @@ Signes : qualité baisse, churn monte, chaos opérationnel, fondateur fait tout,
 | `Core/Actions.md` | Actions alignées sur 1 goulot |
 | `Core/Journal.md` | Append session |
 
-**Routing transparent** vers : `find`, `traffic`, `offer`, `funnel`, `mindset`, `chase`, ou `digestion`.
+**Routing transparent** vers : `find`, `market`, `traffic`, `seo`, `coldmail`, `email`, `readmail`, `copy`, `page`, `direct`, `creative`, `bigidea`, `cashcopy`, `foundation`, `growth`, `offer`, `funnel`, `mindset`, `chase`, ou `digestion`.
+
+`market` se déclenche en Find, ou avant un canal, quand la niche n'a aucun ordre de grandeur. `growth` se déclenche quand le flux existe mais on optimise le mauvais bout (corps au lieu du hook, qualité au lieu du volume, scale sans LTV/CAC). `foundation` une seule fois, si personne n'a jamais écrit pour vendre. `cashcopy` quand une pièce gagnante sert de modèle. `readmail` est appelé par `email` et `coldmail`, pas comme goulot séparé.
 
 **Template Diagnosis.md :**
 

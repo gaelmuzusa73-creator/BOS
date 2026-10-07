@@ -20,9 +20,9 @@ La plupart des entrepreneurs « font un peu de tout » et ne collectent jamais a
 
 ## Process
 
-### Phase 1 — Identifier le meilleur canal parmi les 6
+### Phase 1 — Identifier le meilleur canal parmi les 7
 
-Comparer honnêtement profil entrepreneur + offre + budget + audience cible. **Choisir UN canal.** Présenter la recommandation avec **raisons explicites** et ce qu'on ne fait pas (les 5 autres).
+Comparer honnêtement profil entrepreneur + offre + budget + audience cible. **Choisir UN canal.** Présenter la recommandation avec **raisons explicites** et ce qu'on ne fait pas (les autres).
 
 1. **Ads (pub payante)** — Facebook, Google, TikTok, etc.
    - **Pour :** budget disponible, besoin de résultats rapides, offre claire, validation minimale.
@@ -47,6 +47,11 @@ Comparer honnêtement profil entrepreneur + offre + budget + audience cible. **C
 6. **Agence** — Déléguer l'acquisition.
    - **Pour :** budget solide, besoin de délégation, **déjà testé soi-même** (pour juger).
    - **Pas pour :** budget serré, jamais testé — sinon impossible de qualifier le travail.
+
+7. **Email froid** — Inconnus qualifiés, par email.
+   - **Pour :** acheteur B2B listable (métier, taille, zone), offre dicible, peu ou pas de budget pub.
+   - **Pas pour :** grand public non listable, offre floue, domaine principal qu'on n'a pas le droit de risquer.
+   - **Exécution :** dès que ce canal est retenu, enchaîner sur `coldmail`. Ne pas improviser une séquence ici.
 
 **Décision :** scorer chaque option (fit audience, coût, délai, compétences). Sortie : **une** ligne du type : *« Canal retenu : [X] parce que [A, B, C]. On ne fait pas [Y, Z] pendant 90 jours. »*
 
@@ -88,16 +93,15 @@ Appliquer les best practices du canal choisi. Ci-dessous : méthodologie complè
 
 #### Si le canal = Ads
 
-- Structure de campagne (objectif, audiences, créatives, variantes).
-- Ciblage (intention, démos, exclusions).
-- Allocation budget (test vs scale, règles de couper/scale).
-- Cadre de test créatif (hypothèse → variation → KPI → décision).
+Enchaîner sur `creative` pour l'angle et la pièce. Si la page de vente n'existe pas, `direct`. Ici, seulement le cadre : ciblage large d'abord, images statiques pour tester vite, budget test vs scale, on juge au coût par lead ou au retour.
+
+#### Si le canal = Email froid
+
+Ne pas développer la méthode ici. Enchaîner immédiatement sur `coldmail` : noter les 3 piliers, écrire la séquence, un seul pas infra ou liste.
 
 #### Si le canal = SEO
 
-- Recherche mots-clés (intention, difficulté, quick wins).
-- Plan éditorial aligné offre.
-- Bases techniques (indexation, structure Hn, maillage interne — proportionné au niveau).
+Enchaîner sur `seo`. Une intention, une page, la conversion dans la page. Pas de plan de 30 articles ici.
 
 #### Autres canaux (influenceurs, affiliés, agence)
 
