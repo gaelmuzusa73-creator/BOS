@@ -46,3 +46,5 @@ Page Secteurs retirée du site. Langue automatique, sans bouton. Animations copi
 
 Gaël : le rendu Morningside est bizarre. Nouvelle référence visuelle : Ardent pour la structure, Odysi pour la forme de la preuve. Aucun chiffre emprunté.
 
+Film de marque, 80 secondes, image calée sur le texte dit. Papier #EFEFEF, encre, un accent. Sous-titres brûlés. Pas de voix dans le projet : la piste est prête pour l’enregistrement de Gaël, rien n’a été synthétisé. Source : `Output/film-off-duty/`.
+
