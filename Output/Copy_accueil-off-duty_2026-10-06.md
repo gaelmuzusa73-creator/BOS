@@ -7,7 +7,7 @@ Brief
 - Formule : **PAISA**
 - Promesse de marque conservée : On automatise votre boîte. Vous restez off duty.
 - Croissance, ici : la capacité à prendre plus de travail sans ajouter le dirigeant au milieu. Pas « on vous ramène des clients ».
-- Preuve : aucune. Pas de compteur, pas de cas.
+- Preuve : 3 logos d’entreprises déjà accompagnées, plus des artisans nommés en texte. Pas de compteur. Pas de résultat inventé. Logo ou nom seulement avec accord.
 
 Voix du client
 - Mot-clé Colisée : automatiser / faire grandir sans y passer ses soirées
@@ -65,6 +65,23 @@ Réserver un appel
 **Sous le bouton**
 30 minutes. Gratuit.
 Vous repartez avec la roadmap — qu’on la construise ensemble, ou pas.
+
+## La preuve
+
+Juste sous le hero. Une ligne. Puis les marques. Pas de pourcentages.
+
+**Ligne**
+Déjà dans le travail. Pas dans un slide.
+
+**Rangée**
+Trois logos, en gris, même hauteur, beaucoup d’espace entre eux. [Entreprise 1] · [Entreprise 2] · [Entreprise 3]
+
+**Sous la rangée, en texte, pas en faux logos**
+Et des artisans, sans enseigne : [prénom ou nom de la boîte], [métier]. [prénom ou nom], [métier]. [prénom ou nom], [métier].
+
+Un artisan sans logo se met en mots. Un carré vide, une icône générique ou un logo dessiné à sa place, ça se voit.
+
+On n’écrit un chiffre (heures, chantiers, euros) que s’il vient de leur bouche et qu’ils acceptent qu’il soit public. Sinon la ligne s’arrête au nom et au métier.
 
 ## Le constat
 

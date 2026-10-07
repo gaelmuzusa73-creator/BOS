@@ -38,3 +38,5 @@ Site rangé : menu à 5 liens + bouton Réserver un appel. Audit et Contact sort
 
 Quatre sites comparés. Référence retenue : Morningside pour le rangement. Out of Office est le concurrent à ne pas copier. HeraHub et ExplorIA écartés (volume de pages, preuve en compteurs, deuxième marque).
 
+Preuve : Gaël a 3 entreprises à logo et des artisans sans enseigne. Bloc accueil écrit. Pas de chiffre. Noms en attente.
+

@@ -50,7 +50,7 @@ Ordre du visiteur :
 Hors site : Formations, Blueprint, prix, cas clients, modèle Gatari.
 
 ## Direction visuelle (6 oct. 2026)
-Référence de structure : Morningside. Un fond, une accentuation, beaucoup d’air, la typo fait le travail. Pas leur vert. Pas l’orange d’Out of Office (même promesse, clone). Pas le lilas HeraHub. Pas le corail ExplorIA. Les cas et le journal n’existent pas tant qu’il n’y a pas un client.
+Référence de structure : Morningside. Un fond, une accentuation, beaucoup d’air, la typo fait le travail. Pas leur vert. Pas l’orange d’Out of Office (même promesse, clone). Pas le lilas HeraHub. Pas le corail ExplorIA. Pas de journal. Les cas publics = 3 logos + artisans en texte, avec accord. Pas de page cas tant qu’on n’a pas une phrase de résultat vraie.
 
 ## Marketing
 - Message actuel : On ne fait pas que parler d’IA. On la livre. Partenaire de croissance. On automatise votre boîte. Vous restez off duty.
@@ -58,7 +58,7 @@ Référence de structure : Morningside. Un fond, une accentuation, beaucoup d’
 - Copy FAQ : `Output/Copy_faq-off-duty_2026-10-06.md`
 - Copy Secteurs (live) : `Output/Copy_secteurs-off-duty_2026-10-06.md` — 12 ICP (qui, phrase, résultat, ce qui reste humain). Menu, pas 12 offres.
 - Mots clients : outils qui dorment · personne ne l’a utilisé · copier-coller · on rate des appels · on ne sait pas ce que ça rapporte
-- Preuves : **aucune publique** — ne pas inventer
+- Preuves : 3 entreprises déjà accompagnées (logos, noms pas encore donnés) + plusieurs artisans sans logo. Affichage : logos pour les trois, noms et métiers en texte pour les artisans. Accord avant publication. Aucun chiffre tant qu’il n’est pas le leur.
 - Canal prévu : site + appel (Calendly)
 - Copy Accueil (live) : `Output/Copy_accueil-off-duty_2026-10-06.md`
 - Copy Services (live) : `Output/Copy_services-off-duty_2026-10-06.md`
