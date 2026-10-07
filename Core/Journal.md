@@ -44,3 +44,5 @@ Prompt visuel : l’agent local copie la typo, la grille et les couleurs de Morn
 
 Page Secteurs retirée du site. Langue automatique, sans bouton. Animations copiées sur Morningside, pas inventées.
 
+Gaël : le rendu Morningside est bizarre. Nouvelle référence visuelle : Ardent pour la structure, Odysi pour la forme de la preuve. Aucun chiffre emprunté.
+

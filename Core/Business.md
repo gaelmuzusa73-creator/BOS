@@ -51,8 +51,11 @@ Langue : automatique selon la langue du navigateur. Pas de bouton FR/EN. França
 
 Hors site : Formations, Blueprint, prix, cas clients, modèle Gatari.
 
-## Direction visuelle (6 oct. 2026)
-Référence de structure : Morningside. Un fond, une accentuation, beaucoup d’air, la typo fait le travail. Pas leur vert. Pas l’orange d’Out of Office (même promesse, clone). Pas le lilas HeraHub. Pas le corail ExplorIA. Pas de journal. Les cas publics = 3 logos + artisans en texte, avec accord. Pas de page cas tant qu’on n’a pas une phrase de résultat vraie.
+## Direction visuelle (7 oct. 2026)
+Morningside est abandonné comme peau : le rendu copié est bizarre. Le site est fait pour une grosse équipe et des cas longs.
+Référence de structure : [Ardent Studio](https://ardentstudio.io/) — clair, une phrase, un bouton, trois façons de travailler, quatre étapes, deux humains, un cas même sans chiffre.
+Référence de preuve : [Odysi](https://odysi.studio/) — problème, ce qu’on construit, un seul fait nommé. On ne copie aucun de leurs chiffres.
+Pas de catalogue à la française (prix, « n°1 », dix places). Pas le vert Morningside. Pas l’orange Out of Office.
 
 ## Marketing
 - Message actuel : On ne fait pas que parler d’IA. On la livre. Partenaire de croissance. On automatise votre boîte. Vous restez off duty.
