@@ -19,7 +19,9 @@ La preuve existe. Gaël l'a confirmé le 7 octobre 2026 : des entreprises déjà
 - +30 h récupérées par mois, en moyenne. Même source.
 - Récit court, sans nom : ces heures, reprises sur le travail qui revient chaque semaine. Moyenne : 30 heures par mois.
 
-**Pas sur la page, faute de nom écrit :** logos, citations, pourcentages autres que ce +30 h. Les trois noms et un résultat chacun restent à recevoir. L'application pour la boutique de sa sœur (3 octobre, sans chiffre) n'est pas un cas public.
+**Barre de logos :** emplacement prêt, six cases, aucune remplie. Gaël a dit le 7 octobre 2026 qu'il a les logos et les noms. Aucun nom, aucun fichier logo client trouvé dans les documents, le Drive, les mails, Canva, ni en public.
+
+**Pas sur la page, faute de nom écrit :** noms, fichiers logo, citations, pourcentages autres que ce +30 h. L'application pour la boutique de sa sœur (3 octobre, sans chiffre) n'est pas un cas public.
 
 ## Pistes non utilisées pour cette page
 

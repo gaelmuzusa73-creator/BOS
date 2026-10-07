@@ -9,3 +9,7 @@ Hypothèse : business le plus récent et le plus concret (6 octobre), pas le rep
 ## 7 octobre 2026 — La preuve est sur la page
 
 Gaël corrige : il a déjà de la preuve, avec des entreprises comparables à celles de morningside.ai. La page ne dit plus qu'il n'y a rien à afficher. Chiffres publiés : 12 entreprises accompagnées, +30 h/mois en moyenne (titre LinkedIn). Aucun nom, logo ou citation ajouté. Fichier : `Output/Page_2026-10-07.md`.
+
+## 7 octobre 2026 — Barre de logos, cases vides
+
+Gaël dit qu'il a les logos et les noms, sur le modèle d'une rangée de marques. Recherche faite : dépôt, autres branches, Drive, mails, Canva, LinkedIn, web public. Aucun nom de client, aucun fichier logo client. La section Preuve a maintenant l'emplacement : six cases vides. Les deux chiffres restent. Rien n'a été inventé.
