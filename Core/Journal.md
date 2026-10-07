@@ -48,3 +48,5 @@ Gaël : le rendu Morningside est bizarre. Nouvelle référence visuelle : Ardent
 
 Film de marque, 80 secondes, image calée sur le texte dit. Papier #EFEFEF, encre, un accent. Sous-titres brûlés. Pas de voix dans le projet : la piste est prête pour l’enregistrement de Gaël, rien n’a été synthétisé. Source : `Output/film-off-duty/`.
 
+Prompt pour l’agent du site : le film silencieux une fois sur l’accueil, après la preuve ; le bouton transparent seulement dans le hero. Morningside reste annulé. Livrable : `Output/Prompt_agent-local-film_2026-10-07.md`.
+
