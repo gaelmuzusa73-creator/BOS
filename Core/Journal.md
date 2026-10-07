@@ -40,3 +40,5 @@ Quatre sites comparés. Référence retenue : Morningside pour le rangement. Out
 
 Preuve : Gaël a 3 entreprises à logo et des artisans sans enseigne. Bloc accueil écrit. Pas de chiffre. Noms en attente.
 
+Prompt visuel : l’agent local copie la typo, la grille et les couleurs de Morningside. Le français Off Duty reste. Pas leurs chiffres, pas leurs clients.
+
