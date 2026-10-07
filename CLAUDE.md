@@ -100,7 +100,10 @@ Ne clôturer que si l'entrepreneur dit qu'il doit partir OU qu'il ne reste que d
 Quand BOS détecte qu'un skill spécialisé est nécessaire, il lance `diagnosis` pour identifier la phase et le sous-problème, puis active le bon skill de manière transparente :
 - `find` — pas de business, doute, pivot
 - `traffic` — pas assez de gens voient l'offre
+- `outbound` — volume B2B/service : conversations avec des inconnus (cold email, LinkedIn)
 - `offer` — l'offre n'est pas convaincante
+- `copy` — les mots ne font pas agir (ads, landing, DM, VSL, site)
+- `email` — liste chaude existante (ou qui devrait) mais pas travaillée
 - `funnel` — trafic + offre OK mais la conversion casse
 - `mindset` — l'entrepreneur EST le bottleneck (toutes phases)
 - `chase` — pas assez de nouveau revenue (Scale)
@@ -182,6 +185,9 @@ Quand BOS voit dans `Business.md` que l'entrepreneur utilise un outil avec une i
 ### Knowledge/ — Reconnaissance de patterns
 - **Common_Problems.md** — Catalogue des 30 problèmes entrepreneurs les plus fréquents. Aide BOS à détecter les issues plus vite et proposer des solutions calibrées.
 - **Yomi_Business_Principles.md** — Principes business distillés des vidéos de Yomi Denzel. Source de vérité quand BOS doit convaincre, illustrer ou recadrer.
+- **Copywriting_Principles.md** — Mots qui vendent (PAISA, conscience de marché, voix du client, hooks).
+- **Hormozi_Marketing_Principles.md** — Volume, hooks, LTV:CAC, email liste chaude.
+- **Digital_Marketing_Principles.md** — Attention × conversion, site-comme-pub, demand gen, CRO.
 
 ### Output/ — Artefacts générés
 Rapports, analyses, plans, copy, et autres livrables générés par BOS. Datés. Pas la source de vérité pour l'état actuel (ça c'est Core/).
@@ -202,8 +208,11 @@ Le flow de session quotidien (scan → check-in → mise à jour → proposer �
 - **find/SKILL.md** — Choisir le bon business / valider / décision de pivot.
 
 **Phase 2 — PMF** (business existe, pas de revenue consistant) :
-- **traffic/SKILL.md** — Pas assez de gens voient l'offre. 6 canaux (ads, contenu, SEO, influenceurs, affiliés, agence) — en choisir UN.
+- **traffic/SKILL.md** — Pas assez de gens voient l'offre. 7 canaux (outbound, ads, contenu, SEO, influenceurs, affiliés, agence) — en choisir UN.
+- **outbound/SKILL.md** — Conversations B2B/service avec des inconnus (LinkedIn, cold email).
 - **offer/SKILL.md** — L'offre n'est pas convaincante. Customer research, 3 Descriptions, 4 Leviers, Grand Slam Offer.
+- **copy/SKILL.md** — Écrire les mots qui font agir (ads, landing, DM, VSL, site).
+- **email/SKILL.md** — Faire travailler une liste chaude (newsletter, follow-up, délivrabilité).
 - **funnel/SKILL.md** — Trafic + offre OK mais la conversion casse. Mapper, données, benchmarks, optimiser.
 
 **Phase 3 — Scale** (PMF prouvé, veut grandir) :

@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8" />
+<style>
+  html, body { margin: 0; background: #EFEFEF; color: #141414; font-family: Inter, sans-serif; overflow: hidden; }
+  #stage { position: relative; width: 100vw; height: 100vh; background: #EFEFEF; overflow: hidden; }
+  .scene { position: absolute; inset: 0; }
+  .sub {
+    position: absolute; left: 7%; right: 7%; bottom: 5.2%;
+    text-align: center; font-weight: 450; letter-spacing: -0.015em;
+    line-height: 1.35; color: #141414;
+  }
+  .card {
+    position: absolute; left: 50%; width: 420px; margin-left: -210px;
+    background: #F7F7F7; border: 1px solid #D9D9D9; border-radius: 10px;
+    padding: 18px 22px; display: flex; align-items: center; gap: 14px;
+    box-shadow: 0 10px 30px rgba(20,20,20,0.04);
+  }
+  .dot { width: 8px; height: 8px; border-radius: 50%; background: #9E2B2B; flex: none; }
+  .card b { display: block; font-weight: 560; font-size: 18px; letter-spacing: -0.02em; }
+  .card span { display: block; margin-top: 2px; font-size: 14px; color: #5C5C5C; letter-spacing: -0.01em; }
+  .word {
+    position: absolute; left: 0; right: 0; top: 42%;
+    text-align: center; font-weight: 520; letter-spacing: -0.055em;
+    line-height: 0.9;
+  }
+  .letter { display: inline-block; }
+  .ghost {
+    position: absolute; right: 7%; top: 16%; width: 280px;
+    filter: blur(7px); opacity: 0.38; font-size: 15px; line-height: 1.9;
+    letter-spacing: -0.02em; color: #141414;
+  }
+  .split { position: absolute; inset: 12% 8% 18%; display: flex; gap: 0; }
+  .pane { flex: 1; padding: 8px 36px; }
+  .rule { width: 1px; background: #D0D0D0; }
+  .row {
+    display: flex; justify-content: space-between; align-items: center;
+    border-bottom: 1px solid #E2E2E2; padding: 14px 0;
+    font-size: 20px; letter-spacing: -0.03em;
+  }
+  .row em { font-style: normal; color: #6A6A6A; font-size: 15px; }
+  .big {
+    position: absolute; left: 0; right: 0; top: 38%;
+    text-align: center; font-weight: 520; letter-spacing: -0.06em;
+    line-height: 0.92; text-transform: uppercase;
+  }
+  .count {
+    position: absolute; left: 0; right: 0; top: 54%;
+    text-align: center; font-size: 18px; letter-spacing: -0.02em; color: #3A3A3A;
+    font-variant-numeric: tabular-nums;
+  }
+  .trait {
+    position: absolute; left: 10%; height: 1px; background: #141414; top: 18%;
+  }
+  .phone, .paper, .desk {
+    position: absolute; left: 50%; top: 28%; transform: translateX(-50%);
+    width: 560px;
+  }
+  .kicker { font-size: 13px; letter-spacing: 0.14em; text-transform: uppercase; color: #6A6A6A; margin-bottom: 18px; }
+  .linebig { font-size: 42px; letter-spacing: -0.045em; font-weight: 520; }
+  .subline { margin-top: 10px; font-size: 20px; color: #3F3F3F; letter-spacing: -0.02em; }
+  .locks { position: absolute; left: 50%; top: 30%; transform: translateX(-50%); width: 820px; }
+  .lock {
+    display: flex; align-items: center; gap: 18px;
+    font-size: 34px; letter-spacing: -0.04em; font-weight: 520;
+    margin: 22px 0;
+  }
+  .sq { width: 14px; height: 14px; border: 1.5px solid #141414; flex: none; }
+  .proof {
+    position: absolute; left: 12%; right: 12%; top: 44%;
+    text-align: center; font-size: 26px; letter-spacing: -0.03em; font-weight: 480; line-height: 1.35;
+  }
+  .cta-wrap { position: absolute; left: 0; right: 0; top: 40%; text-align: center; }
+  .btn {
+    display: inline-block; background: #141414; color: #EFEFEF;
+    font-size: 18px; letter-spacing: -0.02em; font-weight: 520;
+    padding: 18px 28px; border-radius: 4px;
+  }
+  .url { margin-top: 16px; font-size: 15px; letter-spacing: -0.01em; color: #3A3A3A; }
+  body.tall .card { width: 640px; margin-left: -320px; }
+  body.tall .ghost { right: 8%; top: 8%; width: 70%; }
+  body.tall .split { flex-direction: column; inset: 10% 8% 16%; }
+  body.tall .rule { width: 100%; height: 1px; }
+  body.tall .locks { width: 86%; }
+  body.tall .lock { font-size: 30px; }
+  body.tall .phone, body.tall .paper, body.tall .desk { width: 86%; }
+  body.tall .word { font-size: 92px !important; }
+  body.tall .big { font-size: 78px !important; }
+  body.tall .sub { font-size: 28px !important; bottom: 4.5%; }
+</style>
+</head>
+<body>
+<div id="stage">
+  <div class="scene" id="s1"></div>
+  <div class="scene" id="s2"></div>
+  <div class="scene" id="s3"></div>
+  <div class="scene" id="s4"></div>
+  <div class="scene" id="s5"></div>
+  <div class="scene" id="s6"></div>
+  <div class="scene" id="s7"></div>
+  <div class="scene" id="s8"></div>
+  <div class="sub" id="sub"></div>
+</div>
+<script>
+const W = () => document.body.classList.contains('tall');
+const ease = (u) => 1 - Math.pow(1 - Math.min(1, Math.max(0, u)), 3);
+const seg = (t, a, b) => Math.max(0, Math.min(1, (t - a) / (b - a)));
+const spring = (u) => {
+  const e = ease(u);
+  const over = Math.sin(Math.min(u, 1) * Math.PI) * (1 - Math.min(u, 1)) * 0.08;
+  return e + over;
+};
+
+const SUBS = [
+  [0, 6, 'Vous avez testé l’IA.\nQuelques mois plus tard, les outils dorment.'],
+  [6, 13, 'On automatise votre boîte.\nVous restez off duty.'],
+  [13, 22, 'Ce qui manque, ce n’est pas un outil de plus.\nC’est quelqu’un qui le met en production.'],
+  [22, 32, 'On trouve la tâche qui vous coûte le plus.\nOn la construit. Au jour 7, l’outil tourne.'],
+  [32, 44, 'Un agent répond. Les tâches répétées avancent seules.\nVotre équipe est formée sur son outil, et sur ses données.'],
+  [44, 54, 'Vous êtes propriétaire de ce qu’on construit.\nVous testez d’abord si on comprend votre métier.'],
+  [54, 64, 'Avant off duty, on a mis en production\nune plateforme de paiements utilisée par une université.'],
+  [64, 72, 'Trente minutes. Gratuit. Sans engagement.'],
+  [72, 77, 'On regarde la tâche qui vous coûte le plus.\nVous repartez avec un avis clair.'],
+  [77, 80, 'Réservez l’appel sur offduty-ai.com.']
+];
+
+function subAt(t) {
+  const hit = SUBS.find(([a, b]) => t >= a && t < b);
+  return hit ? hit[2] : '';
+}
+
+function enter(t, a) {
+  const u = seg(t, a, a + 0.4);
+  return { opacity: ease(u), y: (1 - ease(u)) * 16 };
+}
+
+const s1 = document.getElementById('s1');
+const s2 = document.getElementById('s2');
+const s3 = document.getElementById('s3');
+const s4 = document.getElementById('s4');
+const s5 = document.getElementById('s5');
+const s6 = document.getElementById('s6');
+const s7 = document.getElementById('s7');
+const s8 = document.getElementById('s8');
+const sub = document.getElementById('sub');
+
+function cards(t) {
+  const times = [0.35, 1.15, 2.05, 3.0];
+  const items = [
+    ['Appel manqué', '14:02'],
+    ['Appel manqué', '14:06'],
+    ['Appel manqué', '14:11'],
+    ['Appel manqué', '14:18']
+  ];
+  const shown = items.map((it, i) => ({ it, u: spring(seg(t, times[i], times[i] + 0.45)) })).filter(x => x.u > 0);
+  const tall = W();
+  const cardH = tall ? 92 : 78;
+  const gap = 12;
+  const total = shown.length * (cardH + gap);
+  const start = (window.innerHeight - total) / 2 - 20;
+  s1.innerHTML = shown.map((x, i) => {
+    const y = start + i * (cardH + gap) + (1 - x.u) * 16;
+    return `<div class="card" style="top:${y}px;opacity:${x.u}"><div class="dot"></div><div><b>${x.it[0]}</b><span>${x.it[1]}</span></div></div>`;
+  }).join('');
+}
+
+function title(t) {
+  const local = t - 6;
+  const text = 'off duty.';
+  const size = W() ? 96 : 148;
+  const letters = [...text].map((ch, i) => {
+    const u = spring(seg(local, 0.12 + i * 0.055, 0.62 + i * 0.055));
+    const y = (1 - Math.min(u, 1)) * 22 - Math.sin(Math.min(u, 1) * Math.PI) * (1 - Math.min(u, 1)) * 10;
+    return `<span class="letter" style="opacity:${Math.min(u,1)};transform:translateY(${y}px)">${ch === ' ' ? '&nbsp;' : ch}</span>`;
+  }).join('');
+  const lines = ['devis envoyé', 'dossier classé', 'relance partie', 'appel pris'];
+  const ghost = lines.map((line, i) => {
+    const u = ease(seg(local, 0.4 + i * 0.35, 1.1 + i * 0.35));
+    return `<div style="opacity:${u}">${line}</div>`;
+  }).join('');
+  s2.innerHTML = `<div class="ghost">${ghost}</div><div class="word" style="font-size:${size}px">${letters}</div>`;
+}
+
+function split(t) {
+  const local = t - 13;
+  const en = enter(t, 13);
+  const leftRows = [
+    ['Martin', 'à recopier'],
+    ['Bernard', 'à recopier'],
+    ['Durand', 'à recopier'],
+    ['Petit', 'à recopier']
+  ];
+  const left = leftRows.map((r, i) => {
+    const copy = seg(local, 0.6 + i * 0.35, 1.3 + i * 0.35);
+    const dup = copy > 0 && copy < 1 ? `<div class="row" style="opacity:${1-copy};transform:translateY(${-8*copy}px)"><span>${r[0]}</span><em>copie…</em></div>` : '';
+    return `<div class="row" style="opacity:${en.opacity}"><span>${r[0]}</span><em>${r[1]}</em></div>${dup}`;
+  }).join('');
+  const rightRows = ['Devis clos', 'Relance partie', 'Dossier classé', 'Saisie arrêtée'];
+  const right = rightRows.map((r, i) => {
+    const u = ease(seg(local, 1.1 + i * 1.55, 2.15 + i * 1.55));
+    return `<div class="row" style="opacity:${en.opacity * (1 - u * 0.25)};transform:translateY(${-u * 6}px)"><span style="text-decoration:${u>0.85?'line-through':'none'}">${r}</span><em>${u > 0.2 ? 'fermé' : ''}</em></div>`;
+  }).join('');
+  s3.innerHTML = `<div class="split" style="opacity:${en.opacity};transform:translateY(${en.y}px)">
+    <div class="pane">${left}</div><div class="rule"></div><div class="pane">${right}</div></div>`;
+}
+
+function words(t) {
+  const beats = [
+    [22.0, 25.3, 'Trouve'],
+    [25.3, 28.7, 'Construit'],
+    [28.7, 32.0, 'Ancre']
+  ];
+  let html = '';
+  const size = W() ? 84 : 132;
+  beats.forEach(([a, b, word], i) => {
+    if (t < a) return;
+    const next = beats[i + 1];
+    const inn = spring(seg(t, a, a + 0.45));
+    let y = (1 - Math.min(inn, 1)) * 28;
+    let op = Math.min(inn, 1);
+    if (next && t >= next[0]) {
+      const out = ease(seg(t, next[0], next[0] + 0.35));
+      y = -out * (W() ? 220 : 180);
+      op = 1 - out;
+    }
+    html += `<div class="big" style="font-size:${size}px;opacity:${op};transform:translateY(${y}px)">${word}</div>`;
+  });
+  if (t >= 25.3 && t < 29.3) {
+    const p = seg(t, 25.45, 28.3);
+    const day = Math.min(7, Math.max(1, Math.round(1 + p * 6)));
+    const label = p > 0.92 ? 'en production' : 'Jour ' + day;
+    html += `<div class="count">${label}</div>`;
+  }
+  s4.innerHTML = html;
+}
+
+function scenes(t) {
+  const local = t - 32;
+  const which = local < 4 ? 0 : local < 8 ? 1 : 2;
+  const start = [32, 36, 40][which];
+  const en = enter(t, start);
+  const traitW = (8 + ease(seg(t, 32, 44)) * 82);
+  let body = '';
+  if (which === 0) {
+    const ring = ease(seg(t, 32.2, 33.1));
+    const answered = t > 33.3;
+    body = `<div class="phone" style="opacity:${en.opacity};transform:translate(-50%,${en.y}px)">
+      <div class="kicker">Appel</div>
+      <div class="linebig">${answered ? 'Décroché' : 'Sonne'}</div>
+      <div class="subline">${answered ? 'L’urgent part vers un humain.' : 'Première sonnerie.'}</div>
+      <div style="margin-top:28px;height:2px;background:#E2E2E2"><div style="height:2px;width:${ring*100}%;background:#141414"></div></div>
+    </div>`;
+  } else if (which === 1) {
+    const sent = ease(seg(t, 37.2, 38.4));
+    body = `<div class="paper" style="opacity:${en.opacity};transform:translate(-50%,${en.y - sent * 10}px)">
+      <div class="kicker">Devis</div>
+      <div class="linebig">${sent > 0.65 ? 'Envoyé' : 'Prêt'}</div>
+      <div class="subline">Il part seul.</div>
+      <div style="margin-top:26px;height:10px;width:${40 + sent * 40}%;background:#141414"></div>
+      <div style="margin-top:10px;height:10px;width:62%;background:#D5D5D5"></div>
+      <div style="margin-top:10px;height:10px;width:48%;background:#D5D5D5"></div>
+    </div>`;
+  } else {
+    body = `<div class="desk" style="opacity:${en.opacity};transform:translate(-50%,${en.y}px)">
+      <div class="kicker">Leur outil · leurs données</div>
+      <div class="row"><span>Dossier Martin</span><em>classé</em></div>
+      <div class="row"><span>Dossier Bernard</span><em>ouvert</em></div>
+      <div class="row"><span>Relance</span><em>partie</em></div>
+    </div>`;
+  }
+  s5.innerHTML = `<div class="trait" style="width:${traitW}%"></div>` + body;
+}
+
+function locks(t) {
+  const lines = [
+    [44.15, 'Le code est à vous.'],
+    [46.4, 'Rien n’est facturé avant le premier sprint validé.'],
+    [49.0, 'Un interlocuteur. Une équipe derrière.']
+  ];
+  const html = lines.map(([a, text]) => {
+    const en = enter(t, a);
+    const locked = seg(t, a + 0.25, a + 0.55);
+    const fill = locked > 0.8 ? '#141414' : 'transparent';
+    return `<div class="lock" style="opacity:${en.opacity};transform:translateY(${en.y}px)"><div class="sq" style="background:${fill}"></div><div>${text}</div></div>`;
+  }).join('');
+  s6.innerHTML = `<div class="locks">${html}</div>`;
+}
+
+function proof(t) {
+  const en = enter(t, 54.1);
+  const out = ease(seg(t, 62.4, 63.8));
+  const op = en.opacity * (1 - out);
+  s7.innerHTML = `<div class="proof" style="opacity:${op};transform:translateY(${en.y + out * 8}px)">Avant off duty, on a mis en production une plateforme de paiements utilisée par une université.</div>`;
+}
+
+function end(t) {
+  const en = enter(t, 64.3);
+  let scale = 1;
+  if (t >= 74.15 && t < 78) {
+    const u = seg(t, 74.15, 74.42);
+    const back = seg(t, 74.42, 75.15);
+    if (back <= 0) scale = 1 - u * 0.02;
+    else {
+      const s = Math.sin(Math.min(back, 1) * Math.PI) * 0.012;
+      scale = 0.98 + back * 0.02 + s;
+    }
+  }
+  const mag = (t > 73.2 && t < 74.15) ? -6 * ease(seg(t, 73.2, 74.05)) : 0;
+  s8.innerHTML = `<div class="cta-wrap" style="opacity:${en.opacity};transform:translateY(${en.y + mag}px)">
+    <div class="btn" style="transform:scale(${scale})">Réserver un appel</div>
+    <div class="url">offduty-ai.com</div>
+  </div>`;
+}
+
+function renderFrame(frame) {
+  const t = frame / 30;
+  s1.style.display = t < 6 ? 'block' : 'none';
+  s2.style.display = t >= 6 && t < 13 ? 'block' : 'none';
+  s3.style.display = t >= 13 && t < 22 ? 'block' : 'none';
+  s4.style.display = t >= 22 && t < 32 ? 'block' : 'none';
+  s5.style.display = t >= 32 && t < 44 ? 'block' : 'none';
+  s6.style.display = t >= 44 && t < 54 ? 'block' : 'none';
+  s7.style.display = t >= 54 && t < 64 ? 'block' : 'none';
+  s8.style.display = t >= 64 ? 'block' : 'none';
+  if (t < 6) cards(t);
+  else if (t < 13) title(t);
+  else if (t < 22) split(t);
+  else if (t < 32) words(t);
+  else if (t < 44) scenes(t);
+  else if (t < 54) locks(t);
+  else if (t < 64) proof(t);
+  else end(t);
+  sub.innerHTML = subAt(t).replace(/\n/g, '<br>');
+  sub.style.fontSize = W() ? '28px' : '23px';
+}
+
+function renderButton(frame) {
+  document.querySelectorAll('.scene').forEach(s => s.style.display = 'none');
+  sub.style.display = 'none';
+  document.documentElement.style.background = 'transparent';
+  document.body.style.background = 'transparent';
+  document.getElementById('stage').style.background = 'transparent';
+  const t = (frame % 90) / 30;
+  let scale = 1;
+  if (t >= 1.15 && t < 2.4) {
+    const u = seg(t, 1.15, 1.4);
+    const back = seg(t, 1.4, 2.15);
+    if (back <= 0) scale = 1 - u * 0.02;
+    else scale = 0.98 + Math.min(back, 1) * 0.02 + Math.sin(Math.min(back, 1) * Math.PI) * 0.012;
+  }
+  s8.style.display = 'block';
+  s8.innerHTML = `<div class="cta-wrap" style="top:50%;transform:translateY(-50%)">
+    <div class="btn" style="transform:scale(${scale})">Réserver un appel</div>
+  </div>`;
+}
+
+window.renderFrame = renderFrame;
+window.renderButton = renderButton;
+</script>
+</body>
+</html>
