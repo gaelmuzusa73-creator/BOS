@@ -36,3 +36,5 @@ Analyse morningside.ai : partenaire de livraison (identifier, construire, adopte
 
 Site rangé : menu à 5 liens + bouton Réserver un appel. Audit et Contact sortis du menu. Formations et Blueprint hors site.
 
+Quatre sites comparés. Référence retenue : Morningside pour le rangement. Out of Office est le concurrent à ne pas copier. HeraHub et ExplorIA écartés (volume de pages, preuve en compteurs, deuxième marque).
+

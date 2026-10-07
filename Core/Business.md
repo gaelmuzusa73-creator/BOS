@@ -49,6 +49,9 @@ Ordre du visiteur :
 
 Hors site : Formations, Blueprint, prix, cas clients, modèle Gatari.
 
+## Direction visuelle (6 oct. 2026)
+Référence de structure : Morningside. Un fond, une accentuation, beaucoup d’air, la typo fait le travail. Pas leur vert. Pas l’orange d’Out of Office (même promesse, clone). Pas le lilas HeraHub. Pas le corail ExplorIA. Les cas et le journal n’existent pas tant qu’il n’y a pas un client.
+
 ## Marketing
 - Message actuel : On ne fait pas que parler d’IA. On la livre. Partenaire de croissance. On automatise votre boîte. Vous restez off duty.
 - Copy Contact (live) : `Output/Copy_contact-off-duty_2026-10-06.md` — H1 « Dites-nous où vous en êtes. » Calendrier d’abord. Pas de budget.
