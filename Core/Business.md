@@ -33,19 +33,21 @@ Dirigeant de TPE/PME (artisan, cabinet, commerce, multi-équipes) qui a déjà t
 
 ## Site (rangé le 2026-10-06)
 
-Menu visible : Services · Méthode · Secteurs · FAQ · À propos  
+Menu visible : Services · Méthode · FAQ · À propos  
 Bouton, à droite : Réserver un appel → page Contact  
-Le logo ramène à l’Accueil. Contact n’est pas un mot du menu. L’audit n’est pas dans le menu : on y arrive depuis l’Accueil et Services.
+Le logo ramène à l’Accueil. Contact n’est pas un mot du menu. L’audit n’est pas dans le menu : on y arrive depuis l’Accueil et Services.  
+Secteurs : page retirée. Le fichier copy reste en réserve. Pas dans le menu, pas en ligne.
 
 Ordre du visiteur :
 1. Accueil — On ne fait pas que parler d’IA. On la livre.
 2. Services — les 3 livrables
 3. Méthode — les 6 étapes
-4. Secteurs — il se reconnaît
-5. Audit — la roadmap, en lien pas en menu
-6. FAQ — les objections
-7. À propos — qui parle
-8. Contact — le calendrier
+4. Audit — la roadmap, en lien pas en menu
+5. FAQ — les objections
+6. À propos — qui parle
+7. Contact — le calendrier
+
+Langue : automatique selon la langue du navigateur. Pas de bouton FR/EN. Français si la langue commence par fr, anglais sinon.
 
 Hors site : Formations, Blueprint, prix, cas clients, modèle Gatari.
 

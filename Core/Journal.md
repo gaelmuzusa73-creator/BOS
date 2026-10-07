@@ -42,3 +42,5 @@ Preuve : Gaël a 3 entreprises à logo et des artisans sans enseigne. Bloc accue
 
 Prompt visuel : l’agent local copie la typo, la grille et les couleurs de Morningside. Le français Off Duty reste. Pas leurs chiffres, pas leurs clients.
 
+Page Secteurs retirée du site. Langue automatique, sans bouton. Animations copiées sur Morningside, pas inventées.
+
